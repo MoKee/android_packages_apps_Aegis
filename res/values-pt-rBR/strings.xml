@@ -22,7 +22,7 @@
   <string name="wakelock_title">Acordar do bloqueio</string>
   <string name="wakelock_allow_list_category_title">Conceder permissões de acordar do bloqueio</string>
   <string name="wakelock_deny_list_category_title">Revogar as permissões de acordar do bloqueio</string>
-  <string name="pacifier_title">Pacifier</string>
+  <string name="pacifier_title">Pacificador</string>
   <string name="pacifier_analyzing">Analisando os comportamentos dos aplicativos, verifique novamente mais tarde</string>
   <string name="pacifier_allow_list_category_title">Permitir enviar uma transmissão para aplicativos parados e ligados</string>
   <string name="pacifier_deny_list_category_title">Evitar enviar uma transmissão para aplicativos parados e ligados</string>
