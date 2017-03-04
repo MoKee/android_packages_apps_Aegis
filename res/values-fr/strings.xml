@@ -37,5 +37,5 @@
   <string name="warden_deny_list_category_title">Empêcher l\'application de travailler en arrière-plan quand elle n\'est pas utilisée</string>
   <string name="warden_category_title">Paramètres avancés de la surveillance</string>
   <string name="warden_force_stop_title">Forcer l\'arrêt</string>
-  <string name="warden_force_stop_summary">Forcer l\'arrêt de l\'application restreinte en quittant l\'application</string>
+  <string name="warden_force_stop_summary">Forcer l\'arrêt de l\'application restreinte en la quittant</string>
 </resources>
