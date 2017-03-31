@@ -15,5 +15,6 @@
      limitations under the License.
  -->
 <resources>
+  <string name="app_name">حماية - رعاية - إشراف</string>
   <string name="loading">تحميل\u2026</string>
 </resources>
