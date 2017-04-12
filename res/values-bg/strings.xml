@@ -16,29 +16,29 @@
  -->
 <resources>
   <string name="app_name">Егида</string>
-  <string name="loading">Зарежда\u2026</string>
-  <string name="no_apps">Няма прилож</string>
+  <string name="loading">Зареждане\u2026</string>
+  <string name="no_apps">Няма приложения</string>
   <string name="action_settings">Настройки</string>
-  <string name="autorun_title">Автостарт</string>
-  <string name="autorun_allow_list_category_title">Предоставяне права на супер потребител</string>
-  <string name="autorun_deny_list_category_title">Отмени права на супер потребител</string>
+  <string name="autorun_title">Автоматично стартиране</string>
+  <string name="autorun_allow_list_category_title">Даване на права за автоматично стартиране</string>
+  <string name="autorun_deny_list_category_title">Отнемане на права за автоматично стартиране</string>
   <string name="wakelock_title">Събуждане</string>
-  <string name="wakelock_allow_list_category_title">Права на руут достъп на Събуждане</string>
-  <string name="wakelock_deny_list_category_title">Отмени руут достъп на Събуждане</string>
-  <string name="pacifier_title">Успокояване</string>
+  <string name="wakelock_allow_list_category_title">Даване на права за Събуждане</string>
+  <string name="wakelock_deny_list_category_title">Отнемане на права за Събуждане</string>
+  <string name="pacifier_title">Биберон</string>
   <string name="pacifier_analyzing">Анализ на поведението на приложението. Моля, проверете по-късно</string>
-  <string name="pacifier_allow_list_category_title">Разрешете на приложението да изпраща сигнал за спиране на линкове</string>
-  <string name="pacifier_deny_list_category_title">Не разрешавайте на приложенията да изпращат сигнал за спиране на линкове</string>
+  <string name="pacifier_allow_list_category_title">Разреши на приложението да изпраща сигнал към спрени и свързани приложения</string>
+  <string name="pacifier_deny_list_category_title">Забрани на приложението да изпраща сигнал към спрени и свързани приложения</string>
   <string name="hibernate_title">Хибернация</string>
-  <string name="hibernate_allow_list_category_title">Хибернация, когато екранът изгасне</string>
+  <string name="hibernate_allow_list_category_title">Хибернация на приложението при изключване на екрана</string>
   <string name="hibernate_deny_list_category_title">Без хибернация при изключен екран</string>
   <string name="hibernate_category_title">Разширени настройки на хибернация</string>
   <string name="hibernate_wakeup_title">Събуждане</string>
-  <string name="hibernate_wakeup_summary">Събуди приспаните приложения при включен екран</string>
-  <string name="warden_title">Следени</string>
-  <string name="warden_allow_list_category_title">Разрешете на приложенията да стартират процеси във фонов режим, дори и да не се ползват</string>
-  <string name="warden_deny_list_category_title">Не позволявай на приложенията да стартират процеси във фонов режим</string>
-  <string name="warden_category_title">Разширени настройки на хибернация</string>
+  <string name="hibernate_wakeup_summary">Събуди приспаните приложения при включване на екрана</string>
+  <string name="warden_title">Надзирател</string>
+  <string name="warden_allow_list_category_title">Разреши на приложението да стартира процеси във фонов режим, когато не работи</string>
+  <string name="warden_deny_list_category_title">Не позволявай на приложението да стартира процеси във фонов режим, когато не работи</string>
+  <string name="warden_category_title">Разширени настройки на Надзирател</string>
   <string name="warden_force_stop_title">Принудително спиране</string>
   <string name="warden_force_stop_summary">Спри принудително ограничените приложения при излизане</string>
 </resources>
