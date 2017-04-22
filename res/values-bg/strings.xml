@@ -22,7 +22,7 @@
   <string name="wakelock_title">Събуждане</string>
   <string name="wakelock_allow_list_category_title">Даване на права за Събуждане</string>
   <string name="wakelock_deny_list_category_title">Отнемане на права за Събуждане</string>
-  <string name="pacifier_title">Успокояване</string>
+  <string name="pacifier_title">Биберон</string>
   <string name="pacifier_analyzing">Анализ на поведението на приложението. Моля, проверете по-късно</string>
   <string name="pacifier_allow_list_category_title">Разреши на приложението да изпраща сигнал към спрени и свързани приложения</string>
   <string name="pacifier_deny_list_category_title">Забрани на приложението да изпраща сигнал към спрени и свързани приложения</string>
