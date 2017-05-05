@@ -36,8 +36,8 @@
   <string name="hibernate_wakeup_title">喚醒</string>
   <string name="hibernate_wakeup_summary">當熒幕打開喚醒休眠APP</string>
   <string name="warden_title">監督</string>
-  <string name="warden_allow_list_category_title">不運行應用程式時允許後台服務</string>
-  <string name="warden_deny_list_category_title">限制啟動後台服務時不運行應用程序</string>
+  <string name="warden_allow_list_category_title">不執行應用程式時允許背景服務</string>
+  <string name="warden_deny_list_category_title">不執行應用程式時禁止背景服務</string>
   <string name="warden_category_title">高級睡眠設定</string>
   <string name="warden_force_stop_title">強制停止</string>
   <string name="warden_force_stop_summary">部隊停止限制應用程式離開時</string>
