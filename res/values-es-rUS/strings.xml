@@ -20,12 +20,12 @@
   <string name="no_apps">No hay aplicaciones</string>
   <string name="action_settings">Configuración</string>
   <string name="wakelock_title">Segundo plano</string>
-  <string name="wakelock_allow_list_category_title">Dar permisos de segundo plano</string>
-  <string name="wakelock_deny_list_category_title">Revocar permisos de segundo plano</string>
+  <string name="wakelock_allow_list_category_title">Conceder permisos de segundo plano</string>
+  <string name="wakelock_deny_list_category_title">Denegar permisos de segundo plano</string>
   <string name="pacifier_title">Pacificador</string>
-  <string name="pacifier_analyzing">Analizando el comportamiento de las apps, comprueba mas tarde</string>
-  <string name="pacifier_allow_list_category_title">Permitir aps enviar broadcast a apps paradas y enlazadas</string>
-  <string name="pacifier_deny_list_category_title">Evitar que las aps envien broadcast a apps paradas y enlazadas</string>
+  <string name="pacifier_analyzing">Analizando el comportamiento de las apps, compruébalo mas tarde</string>
+  <string name="pacifier_allow_list_category_title">Permitir a una app enviar broadcast a apps detenidas y enlazadas</string>
+  <string name="pacifier_deny_list_category_title">Evitar que las apps envien broadcast a las apps detenidas y enlazadas</string>
   <string name="hibernate_title">Hibernar</string>
   <string name="hibernate_allow_list_category_title">Hibernar aplicación cuando se apague la pantalla</string>
   <string name="hibernate_deny_list_category_title">No hibernar la aplicación cuando se apague la pantalla</string>
