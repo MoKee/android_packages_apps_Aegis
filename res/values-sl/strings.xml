@@ -26,7 +26,7 @@
   <string name="pacifier_analyzing">Analiziram vedenje aplikacij, prosim znova preverite kasneje</string>
   <string name="hibernate_title">Mirovanje</string>
   <string name="hibernate_allow_list_category_title">App v mirovanju pri izklopljenem zaslonu</string>
-  <string name="hibernate_deny_list_category_title">Ni mirovanja app pri izklopljenem zaslonu</string>
+  <string name="hibernate_deny_list_category_title">Aplikacije brez mirovanja pri izklopljenem zaslonu</string>
   <string name="hibernate_category_title">Napredne nastavitve za mirovanje</string>
   <string name="hibernate_wakeup_title">Bujenje</string>
   <string name="hibernate_wakeup_summary">Zbudi app v mirovanju, ko se vključi zaslon</string>
