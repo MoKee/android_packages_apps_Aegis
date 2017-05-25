@@ -17,4 +17,25 @@
 <resources>
   <string name="app_name">Aegis</string>
   <string name="loading">Încărcare\u2026</string>
+  <string name="no_apps">Nicio aplicație</string>
+  <string name="action_settings">Setări</string>
+  <string name="wakelock_title">Deblocare </string>
+  <string name="wakelock_allow_list_category_title">Acordați permisiuni deblocare </string>
+  <string name="wakelock_deny_list_category_title">Revocați permisiuni deblocare </string>
+  <string name="pacifier_title">Pacificator </string>
+  <string name="pacifier_analyzing">Analizare funcționalitate aplicații, reveniți mai târziu </string>
+  <string name="pacifier_allow_list_category_title">Permiteți aplicației să trimită legături către aplicații oprite </string>
+  <string name="pacifier_deny_list_category_title">Împiedică trimiterea de legături către aplicații oprite </string>
+  <string name="hibernate_title">Hibernare</string>
+  <string name="hibernate_allow_list_category_title">Când ecranul e stins, aplicația hibernează</string>
+  <string name="hibernate_deny_list_category_title">Când ecranul e stins, aplicația nu hibernează</string>
+  <string name="hibernate_category_title">Hibernează setările avansate</string>
+  <string name="hibernate_wakeup_title">Trezire</string>
+  <string name="hibernate_wakeup_summary">Trezește aplicația când ecranul este aprins</string>
+  <string name="warden_title">Gardian</string>
+  <string name="warden_allow_list_category_title">Permite app să pornească servicii de fundal atunci când nu rulează</string>
+  <string name="warden_deny_list_category_title">Împiedică aplicația să pornească servicii de fundal când aceasta nu rulează</string>
+  <string name="warden_category_title">Setări avansate Gardian</string>
+  <string name="warden_force_stop_title">Oprire forțată</string>
+  <string name="warden_force_stop_summary">Oprirea forțată restricționează aplicația la ieșirea din ea</string>
 </resources>
