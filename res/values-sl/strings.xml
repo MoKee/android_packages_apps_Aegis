@@ -24,11 +24,11 @@
   <string name="wakelock_deny_list_category_title">Umakni dovoljenje za samozagon</string>
   <string name="pacifier_title">Dudica</string>
   <string name="pacifier_analyzing">Analiziram vedenje aplikacij, prosim znova preverite kasneje</string>
-  <string name="pacifier_allow_list_category_title">Omogoča pošljanje sporočil ustavljenim in povezanim aplikacujam</string>
-  <string name="pacifier_deny_list_category_title">Prepreči pošiljanje sporočil ustavljenim in povezanim aplikacujam</string>
+  <string name="pacifier_allow_list_category_title">Omogoča pošljanje sporočil ustavljenim in povezanim aplikacijam</string>
+  <string name="pacifier_deny_list_category_title">Prepreči pošiljanje sporočil ustavljenim in povezanim aplikacijam</string>
   <string name="hibernate_title">Mirovanje</string>
-  <string name="hibernate_allow_list_category_title">App v mirovanju pri izklopljenem zaslonu</string>
-  <string name="hibernate_deny_list_category_title">Aplikacije brez mirovanja pri izklopljenem zaslonu</string>
+  <string name="hibernate_allow_list_category_title">Mirovanje pri izklopljenem zaslonu</string>
+  <string name="hibernate_deny_list_category_title">Brez mirovanja pri izklopljenem zaslonu</string>
   <string name="hibernate_category_title">Napredne nastavitve za mirovanje</string>
   <string name="hibernate_wakeup_title">Bujenje</string>
   <string name="hibernate_wakeup_summary">Zbudi app v mirovanju, ko se vključi zaslon</string>
