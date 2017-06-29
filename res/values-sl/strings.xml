@@ -20,8 +20,8 @@
   <string name="no_apps">Brez aplikacij</string>
   <string name="action_settings">Nastavitve</string>
   <string name="wakelock_title">Razlog bujenja</string>
-  <string name="wakelock_allow_list_category_title">Odobri dovoljenje za samozagon</string>
-  <string name="wakelock_deny_list_category_title">Umakni dovoljenje za samozagon</string>
+  <string name="wakelock_allow_list_category_title">Odobrena dovoljenja za samozagon</string>
+  <string name="wakelock_deny_list_category_title">Preklicana dovoljenja za samozagon</string>
   <string name="pacifier_title">Dudica</string>
   <string name="pacifier_analyzing">Analiziram vedenje aplikacij, prosim znova preverite kasneje</string>
   <string name="pacifier_allow_list_category_title">Omogoča pošljanje sporočil ustavljenim in povezanim aplikacijam</string>
