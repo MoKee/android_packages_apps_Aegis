@@ -16,11 +16,13 @@
  -->
 <resources>
   <string name="app_name">Naungan</string>
+  <string name="loading">Memuatkan\u2026</string>
   <string name="no_apps">Tiada aplikasi</string>
   <string name="action_settings">Tetapan</string>
   <string name="wakelock_title">Kekunci sedar</string>
   <string name="wakelock_allow_list_category_title">Benar kekunci sedar</string>
   <string name="wakelock_deny_list_category_title">Batal kekunci sedar</string>
+  <string name="pacifier_title">Pacifier</string>
   <string name="pacifier_analyzing">Menganalisa kelakuan aplikasi, sila semak semula selepas ini</string>
   <string name="pacifier_allow_list_category_title">Benarkan aplikasi menghantar siaran untuk berhenti dan aplikasi disambung</string>
   <string name="pacifier_deny_list_category_title">Halang aplikasi menghantar siaran untuk berhenti dan aplikasi disambung</string>
