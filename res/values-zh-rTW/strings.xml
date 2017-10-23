@@ -19,7 +19,7 @@
   <string name="loading">載入中\u2026</string>
   <string name="no_apps">沒有應用程式</string>
   <string name="action_settings">設定</string>
-  <string name="wakelock_title">Wakelock</string>
+  <string name="wakelock_title">喚醒驅散</string>
   <string name="wakelock_allow_list_category_title">允許應用程式阻止系統進入睡眠模式</string>
   <string name="wakelock_deny_list_category_title">禁止應用程式阻止系統進入睡眠模式</string>
   <string name="pacifier_title">沉默權杖</string>
@@ -29,13 +29,13 @@
   <string name="hibernate_title">靜謐之笛</string>
   <string name="hibernate_allow_list_category_title">鎖定螢幕後強制休眠應用程式</string>
   <string name="hibernate_deny_list_category_title">鎖定螢幕後不強制休眠應用程式</string>
-  <string name="hibernate_category_title">進階睡眠設定</string>
+  <string name="hibernate_category_title">靜謐之笛擴充套件選項</string>
   <string name="hibernate_wakeup_title">喚醒</string>
   <string name="hibernate_wakeup_summary">當螢幕開啟後自動喚醒被休眠的應用程式</string>
   <string name="warden_title">禁錮領域</string>
   <string name="warden_allow_list_category_title">不執行應用程式時允許背景服務</string>
   <string name="warden_deny_list_category_title">不執行應用程式時禁止背景服務</string>
-  <string name="warden_category_title">進階睡眠設定</string>
+  <string name="warden_category_title">禁錮領域擴充套件選項</string>
   <string name="warden_force_stop_title">強制停止</string>
-  <string name="warden_force_stop_summary">強制停止受限應用程式退出時</string>
+  <string name="warden_force_stop_summary">離開被禁錮的應用程式時強行停止程序</string>
 </resources>
