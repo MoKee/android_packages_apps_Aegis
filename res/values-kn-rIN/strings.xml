@@ -16,4 +16,7 @@
  -->
 <resources>
   <string name="loading">ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ\u2026</string>
+  <string name="no_apps">ತಂತ್ರಾಂಶಗಳು ಇಲ್ಲ</string>
+  <string name="action_settings">ಸಂಯೋಜನೆಗಳು</string>
+  <string name="hibernate_wakeup_title">ಎಚ್ಚರಿಸಿ</string>
 </resources>
