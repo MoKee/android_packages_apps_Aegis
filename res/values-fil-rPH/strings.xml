@@ -23,7 +23,7 @@
   <string name="wakelock_allow_list_category_title">Bigyang pahintulot ang paggising kahit nakasara</string>
   <string name="wakelock_deny_list_category_title">Tanggalan ng pahintulot ang paggising kahit nakasara</string>
   <string name="pacifier_title">Tagapayapa</string>
-  <string name="pacifier_analyzing">Pag-aaralan ng mga pag-uugali ng app, mangyaring suriin ulit mamaya</string>
+  <string name="pacifier_analyzing">Pag-aaralan ng mga app behaviour, mangyaring suriin ulit mamaya</string>
   <string name="pacifier_allow_list_category_title">Payagan ang app na magpadala ng broadcast upang tumigil at naka-link na apps</string>
   <string name="pacifier_deny_list_category_title">Pigilan ang app mula sa pagpapadala ng broadcast upang tumigil at naka-link na apps</string>
   <string name="hibernate_title">Matulog</string>

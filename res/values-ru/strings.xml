@@ -15,8 +15,8 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Защитник</string>
-  <string name="loading">Загрузка\u2026</string>
+  <string name="app_name">Aegis</string>
+  <string name="loading">Загрузка...</string>
   <string name="no_apps">Нет приложений</string>
   <string name="action_settings">Настройки</string>
   <string name="wakelock_title">Пробуждение</string>
