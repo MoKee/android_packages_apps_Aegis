@@ -22,6 +22,7 @@
   <string name="wakelock_title">Wakelock</string>
   <string name="wakelock_allow_list_category_title">Tildel wakelock-rettighed</string>
   <string name="wakelock_deny_list_category_title">Annullér wakelock-rettighed</string>
+  <string name="pacifier_title">Sut</string>
   <string name="pacifier_analyzing">Analyserer app-adfærd, tjek venligst igen laster</string>
   <string name="pacifier_allow_list_category_title">Tillad app til at foretage udsendelser (broadcasts) til stoppede og sammenkædede apps</string>
   <string name="pacifier_deny_list_category_title">Forhindre app i at foretage udsendelser (broadcasts) til stoppede og sammenkædede apps</string>
