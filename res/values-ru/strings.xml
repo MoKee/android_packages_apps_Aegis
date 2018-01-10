@@ -23,7 +23,7 @@
   <string name="wakelock_allow_list_category_title">Разрешить пробуждение</string>
   <string name="wakelock_deny_list_category_title">Запретить пробуждение</string>
   <string name="pacifier_title">Оповещения</string>
-  <string name="pacifier_analyzing">Анализ поведения приложения, проверьте еще раз позже</string>
+  <string name="pacifier_analyzing">Анализ поведения приложения, проверьте ещё раз позже.</string>
   <string name="pacifier_allow_list_category_title">Разрешить отправку оповещений в остановленные и связанные приложения</string>
   <string name="pacifier_deny_list_category_title">Запретить отправку оповещений в остановленные и связанные приложения</string>
   <string name="hibernate_title">Спящий режим</string>
