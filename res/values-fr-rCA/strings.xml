@@ -17,15 +17,15 @@
 <resources>
   <string name="app_name">Aegis</string>
   <string name="loading">Chargement\u2026</string>
-  <string name="no_apps">Aucune application</string>
+  <string name="no_apps">Aucune appli</string>
   <string name="action_settings">Préférences</string>
   <string name="wakelock_title">Wakelock</string>
   <string name="wakelock_allow_list_category_title">Accorder les autorisations de wakelock</string>
   <string name="wakelock_deny_list_category_title">Annuler les autorisations de wakelock</string>
   <string name="pacifier_title">Pacifier</string>
   <string name="pacifier_analyzing">Analyse du comportement de l\'application , veuillez vérifier plus tard</string>
-  <string name="pacifier_allow_list_category_title">Autoriser l\'application à envoyer des notifications aux applications arrêtées et associées</string>
-  <string name="pacifier_deny_list_category_title">Empêcher l\'application d\'envoyer des notifications aux applications arrêtées et associées</string>
+  <string name="pacifier_allow_list_category_title">Autoriser l’appli à envoyer des notifications aux applis arrêtées et associées</string>
+  <string name="pacifier_deny_list_category_title">Empêcher l’appli d’envoyer des notifications aux applis arrêtées et associées</string>
   <string name="hibernate_title">Hiberner</string>
   <string name="hibernate_allow_list_category_title">Application à arrêter quand l\'écran s\'éteind</string>
   <string name="hibernate_deny_list_category_title">Application à ne pas arrêter quand l\'écran s\'éteind</string>
