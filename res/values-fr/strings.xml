@@ -23,9 +23,9 @@
   <string name="wakelock_allow_list_category_title">Accorder les autorisations de wakelock</string>
   <string name="wakelock_deny_list_category_title">Révoquer les autorisations de wakelock</string>
   <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">Analyser les comportements de l\'application , veuillez vérifier plus tard</string>
-  <string name="pacifier_allow_list_category_title">Autoriser l\'application à transmettre des données aux applications arrêtées et associées</string>
-  <string name="pacifier_deny_list_category_title">Empêcher l\'application de transmettre des données aux applications arrêtées et associées</string>
+  <string name="pacifier_analyzing">Analyse du comportement de l’appli, veuillez revérifier plus tard</string>
+  <string name="pacifier_allow_list_category_title">Autoriser l’appli à diffuser aux applis arrêtées et associées</string>
+  <string name="pacifier_deny_list_category_title">Empêcher l’appli de diffuser aux applis arrêtées et associées</string>
   <string name="hibernate_title">Hiberner</string>
   <string name="hibernate_allow_list_category_title">Hiberner l\'application quand l\'écran est éteint</string>
   <string name="hibernate_deny_list_category_title">Ne pas hiberner l\'application quand l\'écran est éteint</string>
