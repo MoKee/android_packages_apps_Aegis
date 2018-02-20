@@ -15,7 +15,7 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Bảo vệ</string>
+  <string name="app_name">Quản lý</string>
   <string name="loading">Đang tải\u2026</string>
   <string name="no_apps">Không có ứng dụng</string>
   <string name="action_settings">Cài đặt</string>
