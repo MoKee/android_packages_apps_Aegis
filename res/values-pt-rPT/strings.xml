@@ -15,6 +15,21 @@
      limitations under the License.
  -->
 <resources>
+  <string name="app_name">Aegis</string>
+  <string name="loading">A carregar\u2026</string>
+  <string name="no_apps">Sem aplicações</string>
   <string name="action_settings">Definições</string>
+  <string name="wakelock_title">Wakelock</string>
+  <string name="wakelock_allow_list_category_title">Dar todas as permissões</string>
+  <string name="wakelock_deny_list_category_title">Remover todas as permissões</string>
+  <string name="pacifier_title">Pacifier</string>
+  <string name="pacifier_analyzing">A analizar o comportamento da aplicação, por favor verifique outra vez mais tarde</string>
+  <string name="pacifier_allow_list_category_title">Autorizar a aplicação a enviar dados a aplicações fechadas ou conectadas</string>
+  <string name="pacifier_deny_list_category_title">Impedir a aplicação de enviar dados a aplicações fechadas ou conectadas</string>
   <string name="hibernate_title">Hibernar</string>
+  <string name="hibernate_allow_list_category_title">Hibernar a aplicação quando o ecrã está desligado</string>
+  <string name="hibernate_deny_list_category_title">Não hibernar a aplicação quando o ecrã está desligado</string>
+  <string name="hibernate_category_title">Hibernar as definições avançadas</string>
+  <string name="hibernate_wakeup_title">Acordar</string>
+  <string name="hibernate_wakeup_summary">Acordar uma aplicação hibernada quando o ecrã é ligado</string>
 </resources>
