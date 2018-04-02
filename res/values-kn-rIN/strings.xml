@@ -15,8 +15,11 @@
      limitations under the License.
  -->
 <resources>
+  <string name="app_name">ಏಜಿಸ್</string>
   <string name="loading">ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ\u2026</string>
   <string name="no_apps">ತಂತ್ರಾಂಶಗಳು ಇಲ್ಲ</string>
   <string name="action_settings">ಸಂಯೋಜನೆಗಳು</string>
+  <string name="wakelock_title">ವೇಕಲಾಕ್</string>
+  <string name="wakelock_allow_list_category_title">ವೇಕಲಾಕ್ ಪರವಾನಗಿಗಳನ್ನು ಅನುಮತಿಸಿ</string>
   <string name="hibernate_wakeup_title">ಎಚ್ಚರಿಸಿ</string>
 </resources>
