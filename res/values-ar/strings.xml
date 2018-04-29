@@ -16,7 +16,7 @@
  -->
 <resources>
   <string name="app_name">حماية - رعاية - إشراف</string>
-  <string name="loading">تحميل\u2026</string>
+  <string name="loading">تحميل...</string>
   <string name="no_apps">لا توجد تطبيقات</string>
   <string name="action_settings">الإعدادات</string>
   <string name="wakelock_title">ايقاظ قفل الشاشة</string>
