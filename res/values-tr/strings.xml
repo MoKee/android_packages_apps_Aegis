@@ -30,12 +30,12 @@
   <string name="hibernate_allow_list_category_title">Ekran kapalıyken uygulamayı hazırda beklet</string>
   <string name="hibernate_deny_list_category_title">Ekran kapalıyken uygulamayı hazırda bekletme</string>
   <string name="hibernate_category_title">Hazırda beklet gelişmiş ayarları</string>
-  <string name="hibernate_wakeup_title">Uyan</string>
+  <string name="hibernate_wakeup_title">Uyandır</string>
   <string name="hibernate_wakeup_summary">Ekran açıldığında uygulamayı uyku modundan uyandır</string>
   <string name="warden_title">Koruyucu</string>
   <string name="warden_allow_list_category_title">Uygulamanın, çalışmadığında arka plan hizmetlerini başlatmasına izin ver</string>
   <string name="warden_deny_list_category_title">Çalışmıyorken uygulamanın arka plan hizmetlerini başlatmasını önle</string>
   <string name="warden_category_title">Koruyucu gelişmiş ayarları</string>
-  <string name="warden_force_stop_title">Durdurmaya zorla</string>
+  <string name="warden_force_stop_title">Durmaya zorla</string>
   <string name="warden_force_stop_summary">Çıkış yaparken kısıtlanmış uygulamayı zorla durdur</string>
 </resources>
