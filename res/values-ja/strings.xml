@@ -23,9 +23,9 @@
   <string name="wakelock_allow_list_category_title">Wakelock アクセス許可の付与</string>
   <string name="wakelock_deny_list_category_title">Wakelock 権限を取り消す</string>
   <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">アプリの動作を解析しています。後ほどもう一度確認してください</string>
-  <string name="pacifier_allow_list_category_title">停止およびリンクされたアプリケーションへのブロードキャストを送信を許可します。</string>
-  <string name="pacifier_deny_list_category_title">停止およびリンクされたアプリケーションへのブロードキャストを送信を拒否します。</string>
+  <string name="pacifier_analyzing">アプリの動作を解析しています。後ほどもう一度確認して下さい。</string>
+  <string name="pacifier_allow_list_category_title">停止およびリンクされたアプリへのブロードキャストを送信を許可します</string>
+  <string name="pacifier_deny_list_category_title">停止およびリンクされたアプリのブロードキャストを送信を拒否します</string>
   <string name="hibernate_title">休止</string>
   <string name="hibernate_allow_list_category_title">画面オフで休止</string>
   <string name="hibernate_deny_list_category_title">画面オフでも休止しないアプリ</string>
