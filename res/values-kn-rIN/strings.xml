@@ -22,4 +22,5 @@
   <string name="wakelock_title">ವೇಕಲಾಕ್</string>
   <string name="wakelock_allow_list_category_title">ವೇಕಲಾಕ್ ಪರವಾನಗಿಗಳನ್ನು ಅನುಮತಿಸಿ</string>
   <string name="hibernate_wakeup_title">ಎಚ್ಚರಿಸಿ</string>
+  <string name="warden_title">ಮೇಲ್ವಿಚಾರಕ</string>
 </resources>
