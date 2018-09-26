@@ -21,6 +21,8 @@
   <string name="action_settings">ಸಂಯೋಜನೆಗಳು</string>
   <string name="wakelock_title">ವೇಕಲಾಕ್</string>
   <string name="wakelock_allow_list_category_title">ವೇಕಲಾಕ್ ಪರವಾನಗಿಗಳನ್ನು ಅನುಮತಿಸಿ</string>
+  <string name="wakelock_deny_list_category_title">ವೇಕಲಾಕ್ ಪರವಾನಗಿಗಳನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
   <string name="hibernate_wakeup_title">ಎಚ್ಚರಿಸಿ</string>
   <string name="warden_title">ಮೇಲ್ವಿಚಾರಕ</string>
+  <string name="warden_force_stop_title">ಒತ್ತಾಯದ ತಡೆ</string>
 </resources>
