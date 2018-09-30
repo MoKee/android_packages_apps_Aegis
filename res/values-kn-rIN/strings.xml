@@ -22,7 +22,15 @@
   <string name="wakelock_title">ವೇಕಲಾಕ್</string>
   <string name="wakelock_allow_list_category_title">ವೇಕಲಾಕ್ ಪರವಾನಗಿಗಳನ್ನು ಅನುಮತಿಸಿ</string>
   <string name="wakelock_deny_list_category_title">ವೇಕಲಾಕ್ ಪರವಾನಗಿಗಳನ್ನು ರದ್ದುಗೊಳಿಸಿ</string>
+  <string name="pacifier_title">ಉಪಶಾಮಕ</string>
+  <string name="pacifier_analyzing">ತಂತ್ರಾಂಶಗಳ ವರ್ತನೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪರೀಕ್ಷಿಸಿ</string>
+  <string name="pacifier_allow_list_category_title">ನಿಂತಿರುವ ಮತ್ತು ಜೊತೆ ಆಗಿರುವ ತಂತ್ರಾಂಶಗಳಿಗೆ ಪ್ರಸಾರಪಟ್ಟಿಯನ್ನು ಕಳುಹಿಸಲು ತಂತ್ರಾಂಶಕ್ಕೆ ಅನುಮತಿಸಿ</string>
+  <string name="pacifier_deny_list_category_title">ನಿಂತಿರುವ ಮತ್ತು ಜೊತೆ ಆಗಿರುವ ತಂತ್ರಾಂಶಗಳಿಗೆ ಪ್ರಸಾರಪಟ್ಟಿಯನ್ನು ಕಳುಹಿಸಲು ತಂತ್ರಾಂಶಕ್ಕೆ ತಡೆಹಿಡಿಯಿರಿ</string>
   <string name="hibernate_wakeup_title">ಎಚ್ಚರಿಸಿ</string>
   <string name="warden_title">ಮೇಲ್ವಿಚಾರಕ</string>
+  <string name="warden_allow_list_category_title">ಚಲಿಸದೇ ಇದ್ದಾಗ ತಂತ್ರಾಂಶಕ್ಕೆ ಹಿನ್ನೆಲೆ ಸೇವೆಗಳನ್ನು ಆರಂಭಿಸಲು ಅನುಮತಿಸಿ</string>
+  <string name="warden_deny_list_category_title">ಚಲಿಸದೇ ಇದ್ದಾಗ ತಂತ್ರಾಂಶಕ್ಕೆ ಹಿನ್ನೆಲೆ ಸೇವೆಗಳನ್ನು ಆರಂಭಿಸಲು ತಡೆಹಿಡಿಯಿರಿ</string>
+  <string name="warden_category_title">ಮುಂದುವರೆದ ಸಂಯೋಜನೆಗಳನ್ನು ಮೇಲ್ವಿಚಾರಿಸಿ</string>
   <string name="warden_force_stop_title">ಒತ್ತಾಯದ ತಡೆ</string>
+  <string name="warden_force_stop_summary">ನಿರ್ಗಮಿಸುವಾಗ ನಿರ್ಬಂಧಿತ ತಂತ್ರಾಂಶವನ್ನು ಒತ್ತಾಯವಾಗಿ ನಿಲ್ಲಿಸಿ</string>
 </resources>
