@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Cargando\u2026</string>
-  <string name="no_apps">No hay aplicaciones</string>
-  <string name="action_settings">Configuración</string>
-  <string name="wakelock_title">Segundo plano</string>
-  <string name="wakelock_allow_list_category_title">Conceder permisos de segundo plano</string>
-  <string name="wakelock_deny_list_category_title">Denegar permisos de segundo plano</string>
-  <string name="pacifier_title">Pacificador</string>
-  <string name="pacifier_analyzing">Analizando el comportamiento de las apps, compruébalo mas tarde</string>
-  <string name="pacifier_allow_list_category_title">Permitir a una app enviar broadcast a apps detenidas y enlazadas</string>
-  <string name="pacifier_deny_list_category_title">Evitar que las apps envien broadcast a las apps detenidas y enlazadas</string>
-  <string name="hibernate_title">Hibernar</string>
-  <string name="hibernate_allow_list_category_title">Hibernar aplicación cuando se apague la pantalla</string>
-  <string name="hibernate_deny_list_category_title">No hibernar la aplicación cuando se apague la pantalla</string>
-  <string name="hibernate_category_title">Configuración avanzada de hibernación</string>
-  <string name="hibernate_wakeup_title">Despertar</string>
-  <string name="hibernate_wakeup_summary">Reanudar aplicación hibernada cuando se encienda la pantalla</string>
-  <string name="warden_title">Guardian</string>
-  <string name="warden_allow_list_category_title">Permitir que la aplicación inicie servicios en segundo plano cuando no se esté ejecutando</string>
-  <string name="warden_deny_list_category_title">Evitar que la aplicación inicie servicios en segundo plano cuando no se esté ejecutando</string>
-  <string name="warden_category_title">Guarda configuración avanzada</string>
-  <string name="warden_force_stop_title">Forzar detención</string>
-  <string name="warden_force_stop_summary">Forzar la detención de aplicación restringida al salir</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Cargando\u2026</string>
+    <string name="no_apps">No hay aplicaciones</string>
+    <string name="action_settings">Configuración</string>
+    <string name="wakelock_title">Segundo plano</string>
+    <string name="wakelock_allow_list_category_title">Conceder permisos de segundo plano</string>
+    <string name="wakelock_deny_list_category_title">Denegar permisos de segundo plano</string>
+    <string name="pacifier_title">Pacificador</string>
+    <string name="pacifier_analyzing">Analizando el comportamiento de las apps, compruébalo mas tarde</string>
+    <string name="pacifier_allow_list_category_title">Permitir a una app enviar broadcast a apps detenidas y enlazadas</string>
+    <string name="pacifier_deny_list_category_title">Evitar que las apps envien broadcast a las apps detenidas y enlazadas</string>
+    <string name="hibernate_title">Hibernar</string>
+    <string name="hibernate_allow_list_category_title">Hibernar aplicación cuando se apague la pantalla</string>
+    <string name="hibernate_deny_list_category_title">No hibernar la aplicación cuando se apague la pantalla</string>
+    <string name="hibernate_category_title">Configuración avanzada de hibernación</string>
+    <string name="hibernate_wakeup_title">Despertar</string>
+    <string name="hibernate_wakeup_summary">Reanudar aplicación hibernada cuando se encienda la pantalla</string>
+    <string name="warden_title">Guardian</string>
+    <string name="warden_allow_list_category_title">Permitir que la aplicación inicie servicios en segundo plano cuando no se esté ejecutando</string>
+    <string name="warden_deny_list_category_title">Evitar que la aplicación inicie servicios en segundo plano cuando no se esté ejecutando</string>
+    <string name="warden_category_title">Guarda configuración avanzada</string>
+    <string name="warden_force_stop_title">Forzar detención</string>
+    <string name="warden_force_stop_summary">Forzar la detención de aplicación restringida al salir</string>
 </resources>

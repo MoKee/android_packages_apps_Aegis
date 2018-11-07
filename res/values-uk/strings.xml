@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Завантаження\u2026</string>
-  <string name="no_apps">Немає додатків</string>
-  <string name="action_settings">Налаштування</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Надати дозвіл wakelock </string>
-  <string name="wakelock_deny_list_category_title">Скасувати дозвіл wakelock</string>
-  <string name="pacifier_title">Заспокоювач</string>
-  <string name="pacifier_analyzing">Аналіз поведінки додатку, будь ласка, перевірте знову пізніше</string>
-  <string name="pacifier_allow_list_category_title">Дозволити надсилання оповіщень в зупинені і зв\'язані додатки</string>
-  <string name="pacifier_deny_list_category_title">Заборонити надсилання оповіщень в зупинені і зв\'язані додатки</string>
-  <string name="hibernate_title">Режим глибокого сну</string>
-  <string name="hibernate_allow_list_category_title">Дозволяти додаткам режим глибокого сну, коли екран вимкнено</string>
-  <string name="hibernate_deny_list_category_title">Відкликати додаток з режиму глибокого сну, коли екран вимкнено</string>
-  <string name="hibernate_category_title">Додаткові налаштування режиму глибокого сну</string>
-  <string name="hibernate_wakeup_title">Вихід з режиму сну</string>
-  <string name="hibernate_wakeup_summary">Будити додаток з режиму глибокого сну, коли екран увімкнено</string>
-  <string name="warden_title">Наглядач</string>
-  <string name="warden_allow_list_category_title">Дозволити запуск фонових служб, коли додаток не запущений</string>
-  <string name="warden_deny_list_category_title">Забороняє запуск фонових служб, коли додаток не запущений</string>
-  <string name="warden_category_title">Додаткові налаштування наглядача</string>
-  <string name="warden_force_stop_title">Примусово зупинити</string>
-  <string name="warden_force_stop_summary">Примусово зупиняти додаток при виході</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Завантаження\u2026</string>
+    <string name="no_apps">Немає додатків</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Надати дозвіл wakelock</string>
+    <string name="wakelock_deny_list_category_title">Скасувати дозвіл wakelock</string>
+    <string name="pacifier_title">Заспокоювач</string>
+    <string name="pacifier_analyzing">Аналіз поведінки додатку, будь ласка, перевірте знову пізніше</string>
+    <string name="pacifier_allow_list_category_title">Дозволити надсилання оповіщень в зупинені і зв\'язані додатки</string>
+    <string name="pacifier_deny_list_category_title">Заборонити надсилання оповіщень в зупинені і зв\'язані додатки</string>
+    <string name="hibernate_title">Режим глибокого сну</string>
+    <string name="hibernate_allow_list_category_title">Дозволяти додаткам режим глибокого сну, коли екран вимкнено</string>
+    <string name="hibernate_deny_list_category_title">Відкликати додаток з режиму глибокого сну, коли екран вимкнено</string>
+    <string name="hibernate_category_title">Додаткові налаштування режиму глибокого сну</string>
+    <string name="hibernate_wakeup_title">Вихід з режиму сну</string>
+    <string name="hibernate_wakeup_summary">Будити додаток з режиму глибокого сну, коли екран увімкнено</string>
+    <string name="warden_title">Наглядач</string>
+    <string name="warden_allow_list_category_title">Дозволити запуск фонових служб, коли додаток не запущений</string>
+    <string name="warden_deny_list_category_title">Забороняє запуск фонових служб, коли додаток не запущений</string>
+    <string name="warden_category_title">Додаткові налаштування наглядача</string>
+    <string name="warden_force_stop_title">Примусово зупинити</string>
+    <string name="warden_force_stop_summary">Примусово зупиняти додаток при виході</string>
 </resources>

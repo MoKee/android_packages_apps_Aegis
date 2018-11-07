@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">המגן</string>
-  <string name="loading">טוען\u2026</string>
-  <string name="no_apps">אין יישומים</string>
-  <string name="action_settings">הגדרות</string>
-  <string name="wakelock_title">מניעת שינה</string>
-  <string name="wakelock_allow_list_category_title">מניעת מעבר למצב שינה (wakelock) מופעלת</string>
-  <string name="wakelock_deny_list_category_title">מניעת מעבר למצב שינה (wakelock) מבוטלת</string>
-  <string name="pacifier_title">תקשור</string>
-  <string name="pacifier_analyzing">מנתח את התנהגות הישומים, בדוק שוב אחר כך</string>
-  <string name="pacifier_allow_list_category_title">שליחת מסרים לישומים קשורים או כבוים מאופשרת</string>
-  <string name="pacifier_deny_list_category_title">שליחת מסרים לישומים קשורים או כבוים מבוטלת</string>
-  <string name="hibernate_title">השהיה</string>
-  <string name="hibernate_allow_list_category_title">השהית הישום שהמסך כבוי מאופשרת</string>
-  <string name="hibernate_deny_list_category_title">השהית הישום שהמסך כבוי מבוטלת</string>
-  <string name="hibernate_category_title">הגדרות השהיה מתקדמות</string>
-  <string name="hibernate_wakeup_title">הער</string>
-  <string name="hibernate_wakeup_summary">הער את הישום המושהה שהמסך נדלק</string>
-  <string name="warden_title">שירות</string>
-  <string name="warden_allow_list_category_title">הפעלת שירות ברקע מאופשרת</string>
-  <string name="warden_deny_list_category_title">הפעלת שירות ברקע מבוטלת</string>
-  <string name="warden_category_title">הגדרות שירותים מתקדמות</string>
-  <string name="warden_force_stop_title">אלץ עצירה</string>
-  <string name="warden_force_stop_summary">אלץ עצירת אפליקציה מוגבלת ביציאה</string>
+    <string name="app_name">המגן</string>
+    <string name="loading">טוען\u2026</string>
+    <string name="no_apps">אין יישומים</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="wakelock_title">מניעת שינה</string>
+    <string name="wakelock_allow_list_category_title">מניעת מעבר למצב שינה (wakelock) מופעלת</string>
+    <string name="wakelock_deny_list_category_title">מניעת מעבר למצב שינה (wakelock) מבוטלת</string>
+    <string name="pacifier_title">תקשור</string>
+    <string name="pacifier_analyzing">מנתח את התנהגות הישומים, בדוק שוב אחר כך</string>
+    <string name="pacifier_allow_list_category_title">שליחת מסרים לישומים קשורים או כבוים מאופשרת</string>
+    <string name="pacifier_deny_list_category_title">שליחת מסרים לישומים קשורים או כבוים מבוטלת</string>
+    <string name="hibernate_title">השהיה</string>
+    <string name="hibernate_allow_list_category_title">השהית הישום שהמסך כבוי מאופשרת</string>
+    <string name="hibernate_deny_list_category_title">השהית הישום שהמסך כבוי מבוטלת</string>
+    <string name="hibernate_category_title">הגדרות השהיה מתקדמות</string>
+    <string name="hibernate_wakeup_title">הער</string>
+    <string name="hibernate_wakeup_summary">הער את הישום המושהה שהמסך נדלק</string>
+    <string name="warden_title">שירות</string>
+    <string name="warden_allow_list_category_title">הפעלת שירות ברקע מאופשרת</string>
+    <string name="warden_deny_list_category_title">הפעלת שירות ברקע מבוטלת</string>
+    <string name="warden_category_title">הגדרות שירותים מתקדמות</string>
+    <string name="warden_force_stop_title">אלץ עצירה</string>
+    <string name="warden_force_stop_summary">אלץ עצירת אפליקציה מוגבלת ביציאה</string>
 </resources>

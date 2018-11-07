@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Nalaganje\u2026</string>
-  <string name="no_apps">Brez aplikacij</string>
-  <string name="action_settings">Nastavitve</string>
-  <string name="wakelock_title">Razlog bujenja</string>
-  <string name="wakelock_allow_list_category_title">Odobrena dovoljenja za samozagon</string>
-  <string name="wakelock_deny_list_category_title">Preklicana dovoljenja za samozagon</string>
-  <string name="pacifier_title">Dudica</string>
-  <string name="pacifier_analyzing">Analiziram vedenje aplikacij, prosim znova preverite kasneje</string>
-  <string name="pacifier_allow_list_category_title">Omogoča pošljanje sporočil ustavljenim in povezanim aplikacijam</string>
-  <string name="pacifier_deny_list_category_title">Prepreči pošiljanje sporočil ustavljenim in povezanim aplikacijam</string>
-  <string name="hibernate_title">Mirovanje</string>
-  <string name="hibernate_allow_list_category_title">Mirovanje pri izklopljenem zaslonu</string>
-  <string name="hibernate_deny_list_category_title">Brez mirovanja pri izklopljenem zaslonu</string>
-  <string name="hibernate_category_title">Napredne nastavitve za mirovanje</string>
-  <string name="hibernate_wakeup_title">Bujenje</string>
-  <string name="hibernate_wakeup_summary">Zbudi app v mirovanju, ko se vključi zaslon</string>
-  <string name="warden_title">Paznik</string>
-  <string name="warden_allow_list_category_title">Omogoči aplikaciji zagon storitev v ozadju, ko ne tečejo</string>
-  <string name="warden_deny_list_category_title">Prepreči app zagon storitev v ozadju, ko ne tečejo</string>
-  <string name="warden_category_title">Paznik, dodatne nastavitve</string>
-  <string name="warden_force_stop_title">Vsiljena ustavitev</string>
-  <string name="warden_force_stop_summary">Prisilno ustavi omejene app ob izhodu</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Nalaganje\u2026</string>
+    <string name="no_apps">Brez aplikacij</string>
+    <string name="action_settings">Nastavitve</string>
+    <string name="wakelock_title">Razlog bujenja</string>
+    <string name="wakelock_allow_list_category_title">Odobrena dovoljenja za samozagon</string>
+    <string name="wakelock_deny_list_category_title">Preklicana dovoljenja za samozagon</string>
+    <string name="pacifier_title">Dudica</string>
+    <string name="pacifier_analyzing">Analiziram vedenje aplikacij, prosim znova preverite kasneje</string>
+    <string name="pacifier_allow_list_category_title">Omogoča pošljanje sporočil ustavljenim in povezanim aplikacijam</string>
+    <string name="pacifier_deny_list_category_title">Prepreči pošiljanje sporočil ustavljenim in povezanim aplikacijam</string>
+    <string name="hibernate_title">Mirovanje</string>
+    <string name="hibernate_allow_list_category_title">Mirovanje pri izklopljenem zaslonu</string>
+    <string name="hibernate_deny_list_category_title">Brez mirovanja pri izklopljenem zaslonu</string>
+    <string name="hibernate_category_title">Napredne nastavitve za mirovanje</string>
+    <string name="hibernate_wakeup_title">Bujenje</string>
+    <string name="hibernate_wakeup_summary">Zbudi app v mirovanju, ko se vključi zaslon</string>
+    <string name="warden_title">Paznik</string>
+    <string name="warden_allow_list_category_title">Omogoči aplikaciji zagon storitev v ozadju, ko ne tečejo</string>
+    <string name="warden_deny_list_category_title">Prepreči app zagon storitev v ozadju, ko ne tečejo</string>
+    <string name="warden_category_title">Paznik, dodatne nastavitve</string>
+    <string name="warden_force_stop_title">Vsiljena ustavitev</string>
+    <string name="warden_force_stop_summary">Prisilno ustavi omejene app ob izhodu</string>
 </resources>

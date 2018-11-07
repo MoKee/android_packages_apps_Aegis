@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Chargement\u2026</string>
-  <string name="no_apps">Aucune appli</string>
-  <string name="action_settings">Préférences</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Accorder les autorisations de wakelock</string>
-  <string name="wakelock_deny_list_category_title">Annuler les autorisations de wakelock</string>
-  <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">Analyse du comportement de l’appli, veuillez revérifier plus tard</string>
-  <string name="pacifier_allow_list_category_title">Autoriser l’appli à diffuser aux applis arrêtées et associées</string>
-  <string name="pacifier_deny_list_category_title">Empêcher l’appli de diffuser aux applis arrêtées et associées</string>
-  <string name="hibernate_title">Hiberner</string>
-  <string name="hibernate_allow_list_category_title">Application à arrêter quand l\'écran s\'éteind</string>
-  <string name="hibernate_deny_list_category_title">Application à ne pas arrêter quand l\'écran s\'éteind</string>
-  <string name="hibernate_category_title">Réglages avancés de la mise en arrêt</string>
-  <string name="hibernate_wakeup_title">Réveiller</string>
-  <string name="hibernate_wakeup_summary">Redémarrer l\'application arrêtée quand l\'écran s\'allume</string>
-  <string name="warden_title">Surveillance</string>
-  <string name="warden_allow_list_category_title">Autoriser l\'application à travailler en fond quand elle n\'est pas utilisée</string>
-  <string name="warden_deny_list_category_title">Interdire à l\'application de travailler en fond quand elle n\'est pas utilisée</string>
-  <string name="warden_category_title">Réglages avancées de la surveillance</string>
-  <string name="warden_force_stop_title">Forcer l\'arrêt</string>
-  <string name="warden_force_stop_summary">Forcer l\'arrêt de l\'application restreinte en quittant l\'application</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Chargement\u2026</string>
+    <string name="no_apps">Aucune appli</string>
+    <string name="action_settings">Préférences</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Accorder les autorisations de wakelock</string>
+    <string name="wakelock_deny_list_category_title">Annuler les autorisations de wakelock</string>
+    <string name="pacifier_title">Pacifier</string>
+    <string name="pacifier_analyzing">Analyse du comportement de l’appli, veuillez revérifier plus tard</string>
+    <string name="pacifier_allow_list_category_title">Autoriser l’appli à diffuser aux applis arrêtées et associées</string>
+    <string name="pacifier_deny_list_category_title">Empêcher l’appli de diffuser aux applis arrêtées et associées</string>
+    <string name="hibernate_title">Hiberner</string>
+    <string name="hibernate_allow_list_category_title">Application à arrêter quand l\'écran s\'éteind</string>
+    <string name="hibernate_deny_list_category_title">Application à ne pas arrêter quand l\'écran s\'éteind</string>
+    <string name="hibernate_category_title">Réglages avancés de la mise en arrêt</string>
+    <string name="hibernate_wakeup_title">Réveiller</string>
+    <string name="hibernate_wakeup_summary">Redémarrer l\'application arrêtée quand l\'écran s\'allume</string>
+    <string name="warden_title">Surveillance</string>
+    <string name="warden_allow_list_category_title">Autoriser l\'application à travailler en fond quand elle n\'est pas utilisée</string>
+    <string name="warden_deny_list_category_title">Interdire à l\'application de travailler en fond quand elle n\'est pas utilisée</string>
+    <string name="warden_category_title">Réglages avancées de la surveillance</string>
+    <string name="warden_force_stop_title">Forcer l\'arrêt</string>
+    <string name="warden_force_stop_summary">Forcer l\'arrêt de l\'application restreinte en quittant l\'application</string>
 </resources>

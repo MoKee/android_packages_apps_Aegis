@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Carregando\u2026</string>
-  <string name="no_apps">Nenhum app</string>
-  <string name="action_settings">Configurações</string>
-  <string name="wakelock_title">Acordar do bloqueio</string>
-  <string name="wakelock_allow_list_category_title">Conceder permissões de acordar do bloqueio</string>
-  <string name="wakelock_deny_list_category_title">Revogar as permissões de acordar do bloqueio</string>
-  <string name="pacifier_title">Pacificador</string>
-  <string name="pacifier_analyzing">Analisando os comportamentos dos aplicativos, verifique novamente mais tarde</string>
-  <string name="pacifier_allow_list_category_title">Permitir enviar uma transmissão para aplicativos parados e ligados</string>
-  <string name="pacifier_deny_list_category_title">Evitar enviar uma transmissão para aplicativos parados e ligados</string>
-  <string name="hibernate_title">Hibernar</string>
-  <string name="hibernate_allow_list_category_title">Conceder hibernação de aplicativos quando a tela desligar</string>
-  <string name="hibernate_deny_list_category_title">Revogar hibernação de aplicativos quando a tela desligar</string>
-  <string name="hibernate_category_title">Configurações avançadas de hibernação</string>
-  <string name="hibernate_wakeup_title">Acordar</string>
-  <string name="hibernate_wakeup_summary">Acordar aplicativos hibernados quando a tela ligar</string>
-  <string name="warden_title">Warden</string>
-  <string name="warden_allow_list_category_title">Permitir o início de serviços em segundo plano quando não estiver executando o aplicativo</string>
-  <string name="warden_deny_list_category_title">Restringir o início de serviços em segundo plano quando não estiver executando o aplicativo</string>
-  <string name="warden_category_title">Configurações avançadas do Warden</string>
-  <string name="warden_force_stop_title">Forçar parada</string>
-  <string name="warden_force_stop_summary">Força parada de aplicativo restrito ao sair</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Carregando\u2026</string>
+    <string name="no_apps">Nenhum app</string>
+    <string name="action_settings">Configurações</string>
+    <string name="wakelock_title">Acordar do bloqueio</string>
+    <string name="wakelock_allow_list_category_title">Conceder permissões de acordar do bloqueio</string>
+    <string name="wakelock_deny_list_category_title">Revogar as permissões de acordar do bloqueio</string>
+    <string name="pacifier_title">Pacificador</string>
+    <string name="pacifier_analyzing">Analisando os comportamentos dos aplicativos, verifique novamente mais tarde</string>
+    <string name="pacifier_allow_list_category_title">Permitir enviar uma transmissão para aplicativos parados e ligados</string>
+    <string name="pacifier_deny_list_category_title">Evitar enviar uma transmissão para aplicativos parados e ligados</string>
+    <string name="hibernate_title">Hibernar</string>
+    <string name="hibernate_allow_list_category_title">Conceder hibernação de aplicativos quando a tela desligar</string>
+    <string name="hibernate_deny_list_category_title">Revogar hibernação de aplicativos quando a tela desligar</string>
+    <string name="hibernate_category_title">Configurações avançadas de hibernação</string>
+    <string name="hibernate_wakeup_title">Acordar</string>
+    <string name="hibernate_wakeup_summary">Acordar aplicativos hibernados quando a tela ligar</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">Permitir o início de serviços em segundo plano quando não estiver executando o aplicativo</string>
+    <string name="warden_deny_list_category_title">Restringir o início de serviços em segundo plano quando não estiver executando o aplicativo</string>
+    <string name="warden_category_title">Configurações avançadas do Warden</string>
+    <string name="warden_force_stop_title">Forçar parada</string>
+    <string name="warden_force_stop_summary">Força parada de aplicativo restrito ao sair</string>
 </resources>

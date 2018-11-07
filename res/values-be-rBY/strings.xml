@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Абаронца</string>
-  <string name="loading">Загрузка\u2026</string>
-  <string name="no_apps">Няма прыкладанняў</string>
-  <string name="action_settings">Налады</string>
-  <string name="wakelock_title">Абуджэнне прылады</string>
-  <string name="wakelock_allow_list_category_title">Дазволіць будзіць прыладу</string>
-  <string name="wakelock_deny_list_category_title">Забараніць будзіць прыладу</string>
-  <string name="pacifier_title">Супакой</string>
-  <string name="pacifier_analyzing">Аналіз паводзін праграмы, калі ласка вяртайцеся пазней</string>
-  <string name="pacifier_allow_list_category_title">Дазваляць праграме пасылаць запыт спыненным і звязанным праграмам</string>
-  <string name="pacifier_deny_list_category_title">Забараніць праграме пасылаць запыт спыненным і звязанным праграмам</string>
-  <string name="hibernate_title">Прыпыненне</string>
-  <string name="hibernate_allow_list_category_title">Прыпыніць праграму, калі экран выключаны</string>
-  <string name="hibernate_deny_list_category_title">Не прыпыняць праграму, калі экран выключаны</string>
-  <string name="hibernate_category_title">Пашыраныя параметры спячага рэжыму</string>
-  <string name="hibernate_wakeup_title">Абуджэнне</string>
-  <string name="hibernate_wakeup_summary">Абуджаць прыпыненную праграму, калі экран уключаны</string>
-  <string name="warden_title">Наглядчык</string>
-  <string name="warden_allow_list_category_title">Дазволіць праграме запускаць фонавыя працэссы, калі яно не запушчана</string>
-  <string name="warden_deny_list_category_title">Не дазваляць праграме запускаць фонавыя працэссы, калі яно не запушчана</string>
-  <string name="warden_category_title">Дадатковыя параметры наглядчыка</string>
-  <string name="warden_force_stop_title">Прымусовае спыненне</string>
-  <string name="warden_force_stop_summary">Прымусова спыніць заблакаваныя праграмы пасля выхаду</string>
+    <string name="app_name">Абаронца</string>
+    <string name="loading">Загрузка\u2026</string>
+    <string name="no_apps">Няма прыкладанняў</string>
+    <string name="action_settings">Налады</string>
+    <string name="wakelock_title">Абуджэнне прылады</string>
+    <string name="wakelock_allow_list_category_title">Дазволіць будзіць прыладу</string>
+    <string name="wakelock_deny_list_category_title">Забараніць будзіць прыладу</string>
+    <string name="pacifier_title">Супакой</string>
+    <string name="pacifier_analyzing">Аналіз паводзін праграмы, калі ласка вяртайцеся пазней</string>
+    <string name="pacifier_allow_list_category_title">Дазваляць праграме пасылаць запыт спыненным і звязанным праграмам</string>
+    <string name="pacifier_deny_list_category_title">Забараніць праграме пасылаць запыт спыненным і звязанным праграмам</string>
+    <string name="hibernate_title">Прыпыненне</string>
+    <string name="hibernate_allow_list_category_title">Прыпыніць праграму, калі экран выключаны</string>
+    <string name="hibernate_deny_list_category_title">Не прыпыняць праграму, калі экран выключаны</string>
+    <string name="hibernate_category_title">Пашыраныя параметры спячага рэжыму</string>
+    <string name="hibernate_wakeup_title">Абуджэнне</string>
+    <string name="hibernate_wakeup_summary">Абуджаць прыпыненную праграму, калі экран уключаны</string>
+    <string name="warden_title">Наглядчык</string>
+    <string name="warden_allow_list_category_title">Дазволіць праграме запускаць фонавыя працэссы, калі яно не запушчана</string>
+    <string name="warden_deny_list_category_title">Не дазваляць праграме запускаць фонавыя працэссы, калі яно не запушчана</string>
+    <string name="warden_category_title">Дадатковыя параметры наглядчыка</string>
+    <string name="warden_force_stop_title">Прымусовае спыненне</string>
+    <string name="warden_force_stop_summary">Прымусова спыніць заблакаваныя праграмы пасля выхаду</string>
 </resources>

@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Загрузка...</string>
-  <string name="no_apps">Нет приложений</string>
-  <string name="action_settings">Настройки</string>
-  <string name="wakelock_title">Пробуждение</string>
-  <string name="wakelock_allow_list_category_title">Разрешить пробуждение</string>
-  <string name="wakelock_deny_list_category_title">Запретить пробуждение</string>
-  <string name="pacifier_title">Оповещения</string>
-  <string name="pacifier_analyzing">Анализ поведения приложения, проверьте ещё раз позже.</string>
-  <string name="pacifier_allow_list_category_title">Разрешить отправку оповещений в остановленные и связанные приложения</string>
-  <string name="pacifier_deny_list_category_title">Запретить отправку оповещений в остановленные и связанные приложения</string>
-  <string name="hibernate_title">Спящий режим</string>
-  <string name="hibernate_allow_list_category_title">Разрешить сон приложения при выключении экрана</string>
-  <string name="hibernate_deny_list_category_title">Запретить сон приложения при выключении экрана</string>
-  <string name="hibernate_category_title">Расширенные параметры спящего режима</string>
-  <string name="hibernate_wakeup_title">Пробуждение</string>
-  <string name="hibernate_wakeup_summary">Пробуждать приложение при включении экрана</string>
-  <string name="warden_title">Инспектор</string>
-  <string name="warden_allow_list_category_title">Разрешить приложению запуск фоновых служб, когда оно не запущено</string>
-  <string name="warden_deny_list_category_title">Запретить приложению запуск фоновых служб, если оно не запущенно</string>
-  <string name="warden_category_title">Дополнительные параметры инспектора</string>
-  <string name="warden_force_stop_title">Остановить принудительно</string>
-  <string name="warden_force_stop_summary">Принудительно остановить заблокированные приложения после выхода</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Загрузка...</string>
+    <string name="no_apps">Нет приложений</string>
+    <string name="action_settings">Настройки</string>
+    <string name="wakelock_title">Пробуждение</string>
+    <string name="wakelock_allow_list_category_title">Разрешить пробуждение</string>
+    <string name="wakelock_deny_list_category_title">Запретить пробуждение</string>
+    <string name="pacifier_title">Оповещения</string>
+    <string name="pacifier_analyzing">Анализ поведения приложения, проверьте ещё раз позже.</string>
+    <string name="pacifier_allow_list_category_title">Разрешить отправку оповещений в остановленные и связанные приложения</string>
+    <string name="pacifier_deny_list_category_title">Запретить отправку оповещений в остановленные и связанные приложения</string>
+    <string name="hibernate_title">Спящий режим</string>
+    <string name="hibernate_allow_list_category_title">Разрешить сон приложения при выключении экрана</string>
+    <string name="hibernate_deny_list_category_title">Запретить сон приложения при выключении экрана</string>
+    <string name="hibernate_category_title">Расширенные параметры спящего режима</string>
+    <string name="hibernate_wakeup_title">Пробуждение</string>
+    <string name="hibernate_wakeup_summary">Пробуждать приложение при включении экрана</string>
+    <string name="warden_title">Инспектор</string>
+    <string name="warden_allow_list_category_title">Разрешить приложению запуск фоновых служб, когда оно не запущено</string>
+    <string name="warden_deny_list_category_title">Запретить приложению запуск фоновых служб, если оно не запущенно</string>
+    <string name="warden_category_title">Дополнительные параметры инспектора</string>
+    <string name="warden_force_stop_title">Остановить принудительно</string>
+    <string name="warden_force_stop_summary">Принудительно остановить заблокированные приложения после выхода</string>
 </resources>

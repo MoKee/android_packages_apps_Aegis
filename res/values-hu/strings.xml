@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Betöltés\u2026</string>
-  <string name="no_apps">Nincsenek alkalmazások</string>
-  <string name="action_settings">Beállítások</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Wakelock engedély megadása</string>
-  <string name="wakelock_deny_list_category_title">Wakelock engedély visszavonása</string>
-  <string name="pacifier_title">Altató</string>
-  <string name="pacifier_analyzing">Alkalmazás viselkedés elemzése, ellenőrizze újra később</string>
-  <string name="pacifier_allow_list_category_title">A leállított és linkelt alkalmazások küldhetnek adatokat</string>
-  <string name="pacifier_deny_list_category_title">A leállított és linkelt alkalmazások nem küldhetnek adatokat</string>
-  <string name="hibernate_title">Hibernálás</string>
-  <string name="hibernate_allow_list_category_title">Hibernált alkalmazás engedélyezése kikapcsolt képernyőnél</string>
-  <string name="hibernate_deny_list_category_title">Hibernált alkalmazás tiltása kikapcsolt képernyőnél</string>
-  <string name="hibernate_category_title">Haladó hibernálás beállítások</string>
-  <string name="hibernate_wakeup_title">Felébresztés</string>
-  <string name="hibernate_wakeup_summary">Hibernált alkalmazás felélesztése bekapcsolt képernyőnél</string>
-  <string name="warden_title">Felügyelő</string>
-  <string name="warden_allow_list_category_title">Engedélyezve az alkalmazásoknak, hogy elindítsák a háttérszolgáltatásokat, amikor azok nem futnak</string>
-  <string name="warden_deny_list_category_title">Megtiltva az alkalmazásoknak, hogy elindítsák a háttérszolgáltatásokat, amikor az nem futnak</string>
-  <string name="warden_category_title">Felügyelő haladó beállításai</string>
-  <string name="warden_force_stop_title">Kényszerített leállítás</string>
-  <string name="warden_force_stop_summary">Alkalmazások azonnali leállítása kilépésnél</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Betöltés\u2026</string>
+    <string name="no_apps">Nincsenek alkalmazások</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Wakelock engedély megadása</string>
+    <string name="wakelock_deny_list_category_title">Wakelock engedély visszavonása</string>
+    <string name="pacifier_title">Altató</string>
+    <string name="pacifier_analyzing">Alkalmazás viselkedés elemzése, ellenőrizze újra később</string>
+    <string name="pacifier_allow_list_category_title">A leállított és linkelt alkalmazások küldhetnek adatokat</string>
+    <string name="pacifier_deny_list_category_title">A leállított és linkelt alkalmazások nem küldhetnek adatokat</string>
+    <string name="hibernate_title">Hibernálás</string>
+    <string name="hibernate_allow_list_category_title">Hibernált alkalmazás engedélyezése kikapcsolt képernyőnél</string>
+    <string name="hibernate_deny_list_category_title">Hibernált alkalmazás tiltása kikapcsolt képernyőnél</string>
+    <string name="hibernate_category_title">Haladó hibernálás beállítások</string>
+    <string name="hibernate_wakeup_title">Felébresztés</string>
+    <string name="hibernate_wakeup_summary">Hibernált alkalmazás felélesztése bekapcsolt képernyőnél</string>
+    <string name="warden_title">Felügyelő</string>
+    <string name="warden_allow_list_category_title">Engedélyezve az alkalmazásoknak, hogy elindítsák a háttérszolgáltatásokat, amikor azok nem futnak</string>
+    <string name="warden_deny_list_category_title">Megtiltva az alkalmazásoknak, hogy elindítsák a háttérszolgáltatásokat, amikor az nem futnak</string>
+    <string name="warden_category_title">Felügyelő haladó beállításai</string>
+    <string name="warden_force_stop_title">Kényszerített leállítás</string>
+    <string name="warden_force_stop_summary">Alkalmazások azonnali leállítása kilépésnél</string>
 </resources>

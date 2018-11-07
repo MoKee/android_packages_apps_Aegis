@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Naglo-load \ u2026</string>
-  <string name="no_apps">Walang mga app</string>
-  <string name="action_settings">Mga setting</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Bigyang pahintulotan ang wakelock</string>
-  <string name="wakelock_deny_list_category_title">Tanggalan ng pahintulot ang wakelock</string>
-  <string name="pacifier_title">Tagapayapa</string>
-  <string name="pacifier_analyzing">Pag-aaralan ng mga app behaviour, mangyaring suriin ulit mamaya</string>
-  <string name="pacifier_allow_list_category_title">Payagan ang app na magpadala ng broadcast para tumigil at naka-link ang mga app</string>
-  <string name="pacifier_deny_list_category_title">Pigilan ang app sa pagpapadala ng broadcast para tumigil at naka-link ang mga app</string>
-  <string name="hibernate_title">Matulog</string>
-  <string name="hibernate_allow_list_category_title">Patulugin ang app kapag nakapatay ang screen</string>
-  <string name="hibernate_deny_list_category_title">Huwag patulugin ang app kapag nakapatay ang screen</string>
-  <string name="hibernate_category_title">Hibernate ang mga advanced setting</string>
-  <string name="hibernate_wakeup_title">Paggisingin</string>
-  <string name="hibernate_wakeup_summary">Paggisingin ang nakahibernate na app kapag screen ay on</string>
-  <string name="warden_title">Warden</string>
-  <string name="warden_allow_list_category_title">Payagan ang app na simulan ang mga serbisyo sa background kapag hindi gumagana</string>
-  <string name="warden_deny_list_category_title">Payagan ang app na simulan ang mga serbisyo sa background kapag hindi gumagana</string>
-  <string name="warden_category_title">Mga advanced na setting ng Warden</string>
-  <string name="warden_force_stop_title">Puwersahing itigil</string>
-  <string name="warden_force_stop_summary">Puwersahing itigil ang restricted app kapag mag-exit</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Naglo-load \ u2026</string>
+    <string name="no_apps">Walang mga app</string>
+    <string name="action_settings">Mga setting</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Bigyang pahintulotan ang wakelock</string>
+    <string name="wakelock_deny_list_category_title">Tanggalan ng pahintulot ang wakelock</string>
+    <string name="pacifier_title">Tagapayapa</string>
+    <string name="pacifier_analyzing">Pag-aaralan ng mga app behaviour, mangyaring suriin ulit mamaya</string>
+    <string name="pacifier_allow_list_category_title">Payagan ang app na magpadala ng broadcast para tumigil at naka-link ang mga app</string>
+    <string name="pacifier_deny_list_category_title">Pigilan ang app sa pagpapadala ng broadcast para tumigil at naka-link ang mga app</string>
+    <string name="hibernate_title">Matulog</string>
+    <string name="hibernate_allow_list_category_title">Patulugin ang app kapag nakapatay ang screen</string>
+    <string name="hibernate_deny_list_category_title">Huwag patulugin ang app kapag nakapatay ang screen</string>
+    <string name="hibernate_category_title">Hibernate ang mga advanced setting</string>
+    <string name="hibernate_wakeup_title">Paggisingin</string>
+    <string name="hibernate_wakeup_summary">Paggisingin ang nakahibernate na app kapag screen ay on</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">Payagan ang app na simulan ang mga serbisyo sa background kapag hindi gumagana</string>
+    <string name="warden_deny_list_category_title">Payagan ang app na simulan ang mga serbisyo sa background kapag hindi gumagana</string>
+    <string name="warden_category_title">Mga advanced na setting ng Warden</string>
+    <string name="warden_force_stop_title">Puwersahing itigil</string>
+    <string name="warden_force_stop_summary">Puwersahing itigil ang restricted app kapag mag-exit</string>
 </resources>

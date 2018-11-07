@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Loading</string>
-  <string name="no_apps">No apps</string>
-  <string name="action_settings">Settings</string>
-  <string name="wakelock_title">Wake lock</string>
-  <string name="wakelock_allow_list_category_title">Grant wakelock permissions</string>
-  <string name="wakelock_deny_list_category_title">Revoke wakelock permissions</string>
-  <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">Analyzing app behaviors, please check again laster</string>
-  <string name="pacifier_allow_list_category_title">Allow app to send broadcast to stopped and linked apps</string>
-  <string name="pacifier_deny_list_category_title">Prevent app from sending broadcast to stopped and linked apps</string>
-  <string name="hibernate_title">Hibernate</string>
-  <string name="hibernate_allow_list_category_title">Hibernate app when screen off</string>
-  <string name="hibernate_deny_list_category_title">Not hibernating app when screen off</string>
-  <string name="hibernate_category_title">Hibernate advanced settings</string>
-  <string name="hibernate_wakeup_title">Wake up</string>
-  <string name="hibernate_wakeup_summary">Wake up hibernated app when screen on</string>
-  <string name="warden_title">Warden</string>
-  <string name="warden_allow_list_category_title">Allow app to start background services when not running</string>
-  <string name="warden_deny_list_category_title">Prevent app from starting background services when not running</string>
-  <string name="warden_category_title">Warden advanced settings</string>
-  <string name="warden_force_stop_title">Force stop</string>
-  <string name="warden_force_stop_summary">Force stop restricted app when exiting</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Loading</string>
+    <string name="no_apps">No apps</string>
+    <string name="action_settings">Settings</string>
+    <string name="wakelock_title">Wake lock</string>
+    <string name="wakelock_allow_list_category_title">Grant wakelock permissions</string>
+    <string name="wakelock_deny_list_category_title">Revoke wakelock permissions</string>
+    <string name="pacifier_title">Pacifier</string>
+    <string name="pacifier_analyzing">Analyzing app behaviors, please check again laster</string>
+    <string name="pacifier_allow_list_category_title">Allow app to send broadcast to stopped and linked apps</string>
+    <string name="pacifier_deny_list_category_title">Prevent app from sending broadcast to stopped and linked apps</string>
+    <string name="hibernate_title">Hibernate</string>
+    <string name="hibernate_allow_list_category_title">Hibernate app when screen off</string>
+    <string name="hibernate_deny_list_category_title">Not hibernating app when screen off</string>
+    <string name="hibernate_category_title">Hibernate advanced settings</string>
+    <string name="hibernate_wakeup_title">Wake up</string>
+    <string name="hibernate_wakeup_summary">Wake up hibernated app when screen on</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">Allow app to start background services when not running</string>
+    <string name="warden_deny_list_category_title">Prevent app from starting background services when not running</string>
+    <string name="warden_category_title">Warden advanced settings</string>
+    <string name="warden_force_stop_title">Force stop</string>
+    <string name="warden_force_stop_summary">Force stop restricted app when exiting</string>
 </resources>

@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">이지스</string>
-  <string name="loading">로딩 중\u2026</string>
-  <string name="no_apps">앱 없음</string>
-  <string name="action_settings">설정</string>
-  <string name="wakelock_title">켜짐 유지</string>
-  <string name="wakelock_allow_list_category_title">켜짐 유지 허용</string>
-  <string name="wakelock_deny_list_category_title">켜짐 유지 차단</string>
-  <string name="pacifier_title">브로드캐스트</string>
-  <string name="pacifier_analyzing">앱 동작을 분석, 나중에 다시 확인하세요</string>
-  <string name="pacifier_allow_list_category_title">응용 프로그램을 중지하고 연결된 앱에 브로드 캐스트를 보낼 수 있도록 허용</string>
-  <string name="pacifier_deny_list_category_title">중지와 연결된 앱에 방송을 보내는 응용 프로그램을 방지</string>
-  <string name="hibernate_title">절전 모드</string>
-  <string name="hibernate_allow_list_category_title">화면이 꺼지면 앱 절전 모드 사용</string>
-  <string name="hibernate_deny_list_category_title">화면이 꺼지면 앱 절전 모드 사용 안함</string>
-  <string name="hibernate_category_title">절전 모드 고급 설정</string>
-  <string name="hibernate_wakeup_title">깨우기</string>
-  <string name="hibernate_wakeup_summary">화면이 켜지면 앱 절전 모드에서 깨우기</string>
-  <string name="warden_title">감시</string>
-  <string name="warden_allow_list_category_title">앱이 실행 중이지 않을 때도 백그라운드 서비스 사용을 허락</string>
-  <string name="warden_deny_list_category_title">앱이 실행 중이지 않으면 백그라운드 서비스도 차단</string>
-  <string name="warden_category_title">감시 고급 설정</string>
-  <string name="warden_force_stop_title">강제 중지</string>
-  <string name="warden_force_stop_summary">강제로 종료할 때 제한 된 응용 프로그램 중지</string>
+    <string name="app_name">이지스</string>
+    <string name="loading">로딩 중\u2026</string>
+    <string name="no_apps">앱 없음</string>
+    <string name="action_settings">설정</string>
+    <string name="wakelock_title">켜짐 유지</string>
+    <string name="wakelock_allow_list_category_title">켜짐 유지 허용</string>
+    <string name="wakelock_deny_list_category_title">켜짐 유지 차단</string>
+    <string name="pacifier_title">브로드캐스트</string>
+    <string name="pacifier_analyzing">앱 동작을 분석, 나중에 다시 확인하세요</string>
+    <string name="pacifier_allow_list_category_title">응용 프로그램을 중지하고 연결된 앱에 브로드 캐스트를 보낼 수 있도록 허용</string>
+    <string name="pacifier_deny_list_category_title">중지와 연결된 앱에 방송을 보내는 응용 프로그램을 방지</string>
+    <string name="hibernate_title">절전 모드</string>
+    <string name="hibernate_allow_list_category_title">화면이 꺼지면 앱 절전 모드 사용</string>
+    <string name="hibernate_deny_list_category_title">화면이 꺼지면 앱 절전 모드 사용 안함</string>
+    <string name="hibernate_category_title">절전 모드 고급 설정</string>
+    <string name="hibernate_wakeup_title">깨우기</string>
+    <string name="hibernate_wakeup_summary">화면이 켜지면 앱 절전 모드에서 깨우기</string>
+    <string name="warden_title">감시</string>
+    <string name="warden_allow_list_category_title">앱이 실행 중이지 않을 때도 백그라운드 서비스 사용을 허락</string>
+    <string name="warden_deny_list_category_title">앱이 실행 중이지 않으면 백그라운드 서비스도 차단</string>
+    <string name="warden_category_title">감시 고급 설정</string>
+    <string name="warden_force_stop_title">강제 중지</string>
+    <string name="warden_force_stop_summary">강제로 종료할 때 제한 된 응용 프로그램 중지</string>
 </resources>

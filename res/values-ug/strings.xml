@@ -15,8 +15,8 @@
      limitations under the License.
  -->
 <resources>
-  <string name="no_apps">ئەپ يوق</string>
-  <string name="action_settings">تەڭشەش</string>
-  <string name="hibernate_wakeup_title">ئويغات</string>
-  <string name="warden_force_stop_title">مەجبۇرى توختات</string>
+    <string name="no_apps">ئەپ يوق</string>
+    <string name="action_settings">تەڭشەش</string>
+    <string name="hibernate_wakeup_title">ئويغات</string>
+    <string name="warden_force_stop_title">مەجبۇرى توختات</string>
 </resources>

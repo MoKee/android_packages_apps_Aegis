@@ -15,7 +15,7 @@
      limitations under the License.
  -->
 <resources>
-  <string name="loading">در حال بارگزاری\u2026</string>
-  <string name="action_settings">تنظیمات</string>
-  <string name="warden_force_stop_title">توقف اجباری</string>
+    <string name="loading">در حال بارگزاری\u2026</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="warden_force_stop_title">توقف اجباری</string>
 </resources>

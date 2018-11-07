@@ -15,16 +15,16 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Laddar\u2026</string>
-  <string name="no_apps">Inga appar</string>
-  <string name="action_settings">Inställningar</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Bevilja wakelock-behörigheter</string>
-  <string name="wakelock_deny_list_category_title">Återkalla wakelock-behörigheter</string>
-  <string name="hibernate_title">Viloläge</string>
-  <string name="hibernate_wakeup_title">Vakna</string>
-  <string name="warden_title">Warden</string>
-  <string name="warden_allow_list_category_title">Tillåter en app att starta bakgrundstjänster när de inte körs</string>
-  <string name="warden_force_stop_title">Tvinga stopp</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Laddar\u2026</string>
+    <string name="no_apps">Inga appar</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Bevilja wakelock-behörigheter</string>
+    <string name="wakelock_deny_list_category_title">Återkalla wakelock-behörigheter</string>
+    <string name="hibernate_title">Viloläge</string>
+    <string name="hibernate_wakeup_title">Vakna</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">Tillåter en app att starta bakgrundstjänster när de inte körs</string>
+    <string name="warden_force_stop_title">Tvinga stopp</string>
 </resources>

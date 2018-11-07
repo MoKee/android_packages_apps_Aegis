@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Egida</string>
-  <string name="loading">Caricamento\u2026</string>
-  <string name="no_apps">Nessuna applicazione</string>
-  <string name="action_settings">Impostazioni</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Concedi i permessi di wakelock</string>
-  <string name="wakelock_deny_list_category_title">Revoca i permessi di wakelock</string>
-  <string name="pacifier_title">Pacificatore</string>
-  <string name="pacifier_analyzing">Analisi dei comportamenti delle app, controlla nuovamente il laster</string>
-  <string name="pacifier_allow_list_category_title">Consenti all\'app di inviare broadcast alle applicazioni terminate e connesse</string>
-  <string name="pacifier_deny_list_category_title">Impedisci all\'app di inviare broadcast alle applicazioni terminate e connesse</string>
-  <string name="hibernate_title">Sospensione</string>
-  <string name="hibernate_allow_list_category_title">Sospendi l\'app quando lo schermo è spento</string>
-  <string name="hibernate_deny_list_category_title">Non sospendere l\'app quando lo schermo è spento</string>
-  <string name="hibernate_category_title">Impostazioni avanzate di sospensione</string>
-  <string name="hibernate_wakeup_title">Risveglia</string>
-  <string name="hibernate_wakeup_summary">Risveglia l\'app dalla sospensione quando lo schermo è accesso</string>
-  <string name="warden_title">Warden</string>
-  <string name="warden_allow_list_category_title">Consenti all\'app di avviare servizi in background quando non in esecuzione</string>
-  <string name="warden_deny_list_category_title">Impedisci all\'app di avviare servizi in background quando non in esecuzione</string>
-  <string name="warden_category_title">Impostazioni avanzate di Warden</string>
-  <string name="warden_force_stop_title">Arresto forzato</string>
-  <string name="warden_force_stop_summary">Forza l\'arresto dell\'app quando viene chiusa</string>
+    <string name="app_name">Egida</string>
+    <string name="loading">Caricamento\u2026</string>
+    <string name="no_apps">Nessuna applicazione</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Concedi i permessi di wakelock</string>
+    <string name="wakelock_deny_list_category_title">Revoca i permessi di wakelock</string>
+    <string name="pacifier_title">Pacificatore</string>
+    <string name="pacifier_analyzing">Analisi dei comportamenti delle app, controlla nuovamente il laster</string>
+    <string name="pacifier_allow_list_category_title">Consenti all\'app di inviare broadcast alle applicazioni terminate e connesse</string>
+    <string name="pacifier_deny_list_category_title">Impedisci all\'app di inviare broadcast alle applicazioni terminate e connesse</string>
+    <string name="hibernate_title">Sospensione</string>
+    <string name="hibernate_allow_list_category_title">Sospendi l\'app quando lo schermo è spento</string>
+    <string name="hibernate_deny_list_category_title">Non sospendere l\'app quando lo schermo è spento</string>
+    <string name="hibernate_category_title">Impostazioni avanzate di sospensione</string>
+    <string name="hibernate_wakeup_title">Risveglia</string>
+    <string name="hibernate_wakeup_summary">Risveglia l\'app dalla sospensione quando lo schermo è accesso</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">Consenti all\'app di avviare servizi in background quando non in esecuzione</string>
+    <string name="warden_deny_list_category_title">Impedisci all\'app di avviare servizi in background quando non in esecuzione</string>
+    <string name="warden_category_title">Impostazioni avanzate di Warden</string>
+    <string name="warden_force_stop_title">Arresto forzato</string>
+    <string name="warden_force_stop_summary">Forza l\'arresto dell\'app quando viene chiusa</string>
 </resources>

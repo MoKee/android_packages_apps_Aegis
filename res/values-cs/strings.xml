@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Nahrávám\u2026</string>
-  <string name="no_apps">Žádné aplikace</string>
-  <string name="action_settings">Nastavení</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Udělit oprávnění wakelock</string>
-  <string name="wakelock_deny_list_category_title">Odvolat oprávnění wakelock</string>
-  <string name="pacifier_title">Oznámení</string>
-  <string name="pacifier_analyzing">Analýza chování aplikace, znovu zkontrolujte později</string>
-  <string name="pacifier_allow_list_category_title">Povolit zasílání upozornění zadržených a souvisejících aplikací</string>
-  <string name="pacifier_deny_list_category_title">Zakázat odesílání upozornění týkající se zastavení a aplikací</string>
-  <string name="hibernate_title">Režim spánku</string>
-  <string name="hibernate_allow_list_category_title">Hibernovat aplikace při vypnuté obrazovce</string>
-  <string name="hibernate_deny_list_category_title">Nehibernovat aplikace při vypnuté obrazovce</string>
-  <string name="hibernate_category_title">Upřesnění nastavení režimu spánku</string>
-  <string name="hibernate_wakeup_title">Probuzení</string>
-  <string name="hibernate_wakeup_summary">Probudit hibernované aplikace při zapnutí obrazovky</string>
-  <string name="warden_title">Inspekce</string>
-  <string name="warden_allow_list_category_title">Povolit aplikaci spustit služby na pozadí, když neběží</string>
-  <string name="warden_deny_list_category_title">Zabránit spuštění služby na pozadí, když aplikace neběží</string>
-  <string name="warden_category_title">Upřesnění nastavení režimu spánku</string>
-  <string name="warden_force_stop_title">Vynutit ukončení</string>
-  <string name="warden_force_stop_summary">Vynucené zastavení po uzamknutí aplikace</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Nahrávám\u2026</string>
+    <string name="no_apps">Žádné aplikace</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Udělit oprávnění wakelock</string>
+    <string name="wakelock_deny_list_category_title">Odvolat oprávnění wakelock</string>
+    <string name="pacifier_title">Oznámení</string>
+    <string name="pacifier_analyzing">Analýza chování aplikace, znovu zkontrolujte později</string>
+    <string name="pacifier_allow_list_category_title">Povolit zasílání upozornění zadržených a souvisejících aplikací</string>
+    <string name="pacifier_deny_list_category_title">Zakázat odesílání upozornění týkající se zastavení a aplikací</string>
+    <string name="hibernate_title">Režim spánku</string>
+    <string name="hibernate_allow_list_category_title">Hibernovat aplikace při vypnuté obrazovce</string>
+    <string name="hibernate_deny_list_category_title">Nehibernovat aplikace při vypnuté obrazovce</string>
+    <string name="hibernate_category_title">Upřesnění nastavení režimu spánku</string>
+    <string name="hibernate_wakeup_title">Probuzení</string>
+    <string name="hibernate_wakeup_summary">Probudit hibernované aplikace při zapnutí obrazovky</string>
+    <string name="warden_title">Inspekce</string>
+    <string name="warden_allow_list_category_title">Povolit aplikaci spustit služby na pozadí, když neběží</string>
+    <string name="warden_deny_list_category_title">Zabránit spuštění služby na pozadí, když aplikace neběží</string>
+    <string name="warden_category_title">Upřesnění nastavení režimu spánku</string>
+    <string name="warden_force_stop_title">Vynutit ukončení</string>
+    <string name="warden_force_stop_summary">Vynucené zastavení po uzamknutí aplikace</string>
 </resources>

@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Naungan</string>
-  <string name="loading">Memuatkan\u2026</string>
-  <string name="no_apps">Tiada aplikasi</string>
-  <string name="action_settings">Tetapan</string>
-  <string name="wakelock_title">Kekunci sedar</string>
-  <string name="wakelock_allow_list_category_title">Benar kekunci sedar</string>
-  <string name="wakelock_deny_list_category_title">Batal kekunci sedar</string>
-  <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">Menganalisa kelakuan aplikasi, sila semak semula selepas ini</string>
-  <string name="pacifier_allow_list_category_title">Benarkan aplikasi menghantar siaran untuk berhenti dan aplikasi disambung</string>
-  <string name="pacifier_deny_list_category_title">Halang aplikasi menghantar siaran untuk berhenti dan aplikasi disambung</string>
-  <string name="hibernate_title">Mod Lalai</string>
-  <string name="hibernate_allow_list_category_title">Mod lalai aplikasi semasa skrin ditutup</string>
-  <string name="hibernate_deny_list_category_title">Nyahaktif mod lalai semasa skrin ditutup</string>
-  <string name="hibernate_category_title">Seting lanjut Hibernasi</string>
-  <string name="hibernate_wakeup_title">Mod Sedar</string>
-  <string name="hibernate_wakeup_summary">Sedar aplikasi mod lalai semasa skrin aktif</string>
-  <string name="warden_title">Mengawasi</string>
-  <string name="warden_allow_list_category_title">Benarkan aplikasi bermula dikhidmat latar semasa ditutup</string>
-  <string name="warden_deny_list_category_title">Halang aplikasi memulakan proses dilatar semasa ditutup</string>
-  <string name="warden_category_title">Mengawas seting lanjutan</string>
-  <string name="warden_force_stop_title">Paksa henti</string>
-  <string name="warden_force_stop_summary">Paksa henti aplikasi yang dihalang semasa keluar</string>
+    <string name="app_name">Naungan</string>
+    <string name="loading">Memuatkan\u2026</string>
+    <string name="no_apps">Tiada aplikasi</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="wakelock_title">Kekunci sedar</string>
+    <string name="wakelock_allow_list_category_title">Benar kekunci sedar</string>
+    <string name="wakelock_deny_list_category_title">Batal kekunci sedar</string>
+    <string name="pacifier_title">Pacifier</string>
+    <string name="pacifier_analyzing">Menganalisa kelakuan aplikasi, sila semak semula selepas ini</string>
+    <string name="pacifier_allow_list_category_title">Benarkan aplikasi menghantar siaran untuk berhenti dan aplikasi disambung</string>
+    <string name="pacifier_deny_list_category_title">Halang aplikasi menghantar siaran untuk berhenti dan aplikasi disambung</string>
+    <string name="hibernate_title">Mod Lalai</string>
+    <string name="hibernate_allow_list_category_title">Mod lalai aplikasi semasa skrin ditutup</string>
+    <string name="hibernate_deny_list_category_title">Nyahaktif mod lalai semasa skrin ditutup</string>
+    <string name="hibernate_category_title">Seting lanjut Hibernasi</string>
+    <string name="hibernate_wakeup_title">Mod Sedar</string>
+    <string name="hibernate_wakeup_summary">Sedar aplikasi mod lalai semasa skrin aktif</string>
+    <string name="warden_title">Mengawasi</string>
+    <string name="warden_allow_list_category_title">Benarkan aplikasi bermula dikhidmat latar semasa ditutup</string>
+    <string name="warden_deny_list_category_title">Halang aplikasi memulakan proses dilatar semasa ditutup</string>
+    <string name="warden_category_title">Mengawas seting lanjutan</string>
+    <string name="warden_force_stop_title">Paksa henti</string>
+    <string name="warden_force_stop_summary">Paksa henti aplikasi yang dihalang semasa keluar</string>
 </resources>

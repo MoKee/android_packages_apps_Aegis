@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">読み込み中…</string>
-  <string name="no_apps">アプリなし</string>
-  <string name="action_settings">設定</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Wakelock アクセス許可の付与</string>
-  <string name="wakelock_deny_list_category_title">Wakelock 権限を取り消す</string>
-  <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">アプリの動作を解析しています。後ほどもう一度確認して下さい。</string>
-  <string name="pacifier_allow_list_category_title">停止およびリンクされたアプリへのブロードキャストを送信を許可します</string>
-  <string name="pacifier_deny_list_category_title">停止およびリンクされたアプリのブロードキャストを送信を拒否します</string>
-  <string name="hibernate_title">休止</string>
-  <string name="hibernate_allow_list_category_title">画面オフで休止</string>
-  <string name="hibernate_deny_list_category_title">画面オフでも休止しないアプリ</string>
-  <string name="hibernate_category_title">休止状態の高度な設定</string>
-  <string name="hibernate_wakeup_title">起動</string>
-  <string name="hibernate_wakeup_summary">画面オンで休止アプリを起動</string>
-  <string name="warden_title">Warden </string>
-  <string name="warden_allow_list_category_title">アプリが動作していない時にバックグラウンドサービスの開始することを許可</string>
-  <string name="warden_deny_list_category_title">アプリが動作していない時にバックグラウンドサービスの開始することを禁止</string>
-  <string name="warden_category_title">Warden の詳細設定</string>
-  <string name="warden_force_stop_title">強制停止</string>
-  <string name="warden_force_stop_summary">終了時に制限アプリを強制停止</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">読み込み中…</string>
+    <string name="no_apps">アプリなし</string>
+    <string name="action_settings">設定</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Wakelock アクセス許可の付与</string>
+    <string name="wakelock_deny_list_category_title">Wakelock 権限を取り消す</string>
+    <string name="pacifier_title">Pacifier</string>
+    <string name="pacifier_analyzing">アプリの動作を解析しています。後ほどもう一度確認して下さい。</string>
+    <string name="pacifier_allow_list_category_title">停止およびリンクされたアプリへのブロードキャストを送信を許可します</string>
+    <string name="pacifier_deny_list_category_title">停止およびリンクされたアプリのブロードキャストを送信を拒否します</string>
+    <string name="hibernate_title">休止</string>
+    <string name="hibernate_allow_list_category_title">画面オフで休止</string>
+    <string name="hibernate_deny_list_category_title">画面オフでも休止しないアプリ</string>
+    <string name="hibernate_category_title">休止状態の高度な設定</string>
+    <string name="hibernate_wakeup_title">起動</string>
+    <string name="hibernate_wakeup_summary">画面オンで休止アプリを起動</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">アプリが動作していない時にバックグラウンドサービスの開始することを許可</string>
+    <string name="warden_deny_list_category_title">アプリが動作していない時にバックグラウンドサービスの開始することを禁止</string>
+    <string name="warden_category_title">Warden の詳細設定</string>
+    <string name="warden_force_stop_title">強制停止</string>
+    <string name="warden_force_stop_summary">終了時に制限アプリを強制停止</string>
 </resources>

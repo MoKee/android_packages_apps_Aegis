@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Ładowanie\u2026</string>
-  <string name="no_apps">Brak aplikacji</string>
-  <string name="action_settings">Ustawienia</string>
-  <string name="wakelock_title">Wybudzanie ekranu</string>
-  <string name="wakelock_allow_list_category_title">Nadaj uprawnienia do wybudzania ekranu</string>
-  <string name="wakelock_deny_list_category_title">Odwołaj uprawnienia na wybudzanie ekranu</string>
-  <string name="pacifier_title">Pacyfikator (Smoczek)</string>
-  <string name="pacifier_analyzing">Analizowanie działania aplikacji, spróbuj później</string>
-  <string name="pacifier_allow_list_category_title">Pozwól aplikacji na wysyłanie poleceń do zatrzymanych i połączonych aplikacji</string>
-  <string name="pacifier_deny_list_category_title">Nie pozwalaj aplikacji na wysyłanie poleceń do zatrzymanych i połączonych aplikacji</string>
-  <string name="hibernate_title">Hibernuj</string>
-  <string name="hibernate_allow_list_category_title">Hibernuj aplikację, gdy ekran jest wyłączony</string>
-  <string name="hibernate_deny_list_category_title">Nie hibernuj aplikacji, gdy ekran jest wyłączony</string>
-  <string name="hibernate_category_title">Zaawansowane ustawienia hibernacji</string>
-  <string name="hibernate_wakeup_title">Wybudzanie</string>
-  <string name="hibernate_wakeup_summary">Wybudź zahibernowaną aplikację, gdy ekran jest włączony</string>
-  <string name="warden_title">Aplikacje działające w tle (Inspektor)</string>
-  <string name="warden_allow_list_category_title">Zezwól aplikacji na uruchomienie usług działających w tle, gdy aplikacja nie działa</string>
-  <string name="warden_deny_list_category_title">Zablokuj uruchamianie usług działających w tle, gdy aplikacja nie działa</string>
-  <string name="warden_category_title">Zaawansowane ustawienia aplikacji działających w tle</string>
-  <string name="warden_force_stop_title">Wymuś zamknięcie</string>
-  <string name="warden_force_stop_summary">Wymuś zatrzymanie ograniczonej aplikacji podczas zamknięcia</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Ładowanie\u2026</string>
+    <string name="no_apps">Brak aplikacji</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="wakelock_title">Wybudzanie ekranu</string>
+    <string name="wakelock_allow_list_category_title">Nadaj uprawnienia do wybudzania ekranu</string>
+    <string name="wakelock_deny_list_category_title">Odwołaj uprawnienia na wybudzanie ekranu</string>
+    <string name="pacifier_title">Pacyfikator (Smoczek)</string>
+    <string name="pacifier_analyzing">Analizowanie działania aplikacji, spróbuj później</string>
+    <string name="pacifier_allow_list_category_title">Pozwól aplikacji na wysyłanie poleceń do zatrzymanych i połączonych aplikacji</string>
+    <string name="pacifier_deny_list_category_title">Nie pozwalaj aplikacji na wysyłanie poleceń do zatrzymanych i połączonych aplikacji</string>
+    <string name="hibernate_title">Hibernuj</string>
+    <string name="hibernate_allow_list_category_title">Hibernuj aplikację, gdy ekran jest wyłączony</string>
+    <string name="hibernate_deny_list_category_title">Nie hibernuj aplikacji, gdy ekran jest wyłączony</string>
+    <string name="hibernate_category_title">Zaawansowane ustawienia hibernacji</string>
+    <string name="hibernate_wakeup_title">Wybudzanie</string>
+    <string name="hibernate_wakeup_summary">Wybudź zahibernowaną aplikację, gdy ekran jest włączony</string>
+    <string name="warden_title">Aplikacje działające w tle (Inspektor)</string>
+    <string name="warden_allow_list_category_title">Zezwól aplikacji na uruchomienie usług działających w tle, gdy aplikacja nie działa</string>
+    <string name="warden_deny_list_category_title">Zablokuj uruchamianie usług działających w tle, gdy aplikacja nie działa</string>
+    <string name="warden_category_title">Zaawansowane ustawienia aplikacji działających w tle</string>
+    <string name="warden_force_stop_title">Wymuś zamknięcie</string>
+    <string name="warden_force_stop_summary">Wymuś zatrzymanie ograniczonej aplikacji podczas zamknięcia</string>
 </resources>

@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Yükleniyor\u2026</string>
-  <string name="no_apps">Uygulama yok</string>
-  <string name="action_settings">Ayarlar</string>
-  <string name="wakelock_title">Uyandırma kilidi</string>
-  <string name="wakelock_allow_list_category_title">Uyandırma kilidi izinleri sağla</string>
-  <string name="wakelock_deny_list_category_title">Uyandırma kilidi izinlerini iptal et</string>
-  <string name="pacifier_title">Arabulucu</string>
-  <string name="pacifier_analyzing">Uygulama davranışlarını analiz ettikten sonra, lütfen tekrar kontrol edin</string>
-  <string name="pacifier_allow_list_category_title">Uygulamanın durmuş ve bağlı uygulamalara yayın göndermesine izin ver</string>
-  <string name="pacifier_deny_list_category_title">Uygulamayı durdurulmuş ve bağlantılı uygulamalara yayın göndermesini engelle</string>
-  <string name="hibernate_title">Hazırda beklet</string>
-  <string name="hibernate_allow_list_category_title">Ekran kapalıyken uygulamayı hazırda beklet</string>
-  <string name="hibernate_deny_list_category_title">Ekran kapalıyken uygulamayı hazırda bekletme</string>
-  <string name="hibernate_category_title">Hazırda beklet gelişmiş ayarları</string>
-  <string name="hibernate_wakeup_title">Uyandır</string>
-  <string name="hibernate_wakeup_summary">Ekran açıldığında uygulamayı uyku modundan uyandır</string>
-  <string name="warden_title">Koruyucu</string>
-  <string name="warden_allow_list_category_title">Uygulamanın, çalışmadığında arka plan hizmetlerini başlatmasına izin ver</string>
-  <string name="warden_deny_list_category_title">Çalışmıyorken uygulamanın arka plan hizmetlerini başlatmasını önle</string>
-  <string name="warden_category_title">Koruyucu gelişmiş ayarları</string>
-  <string name="warden_force_stop_title">Durmaya zorla</string>
-  <string name="warden_force_stop_summary">Çıkış yaparken kısıtlanmış uygulamayı zorla durdur</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Yükleniyor\u2026</string>
+    <string name="no_apps">Uygulama yok</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="wakelock_title">Uyandırma kilidi</string>
+    <string name="wakelock_allow_list_category_title">Uyandırma kilidi izinleri sağla</string>
+    <string name="wakelock_deny_list_category_title">Uyandırma kilidi izinlerini iptal et</string>
+    <string name="pacifier_title">Arabulucu</string>
+    <string name="pacifier_analyzing">Uygulama davranışlarını analiz ettikten sonra, lütfen tekrar kontrol edin</string>
+    <string name="pacifier_allow_list_category_title">Uygulamanın durmuş ve bağlı uygulamalara yayın göndermesine izin ver</string>
+    <string name="pacifier_deny_list_category_title">Uygulamayı durdurulmuş ve bağlantılı uygulamalara yayın göndermesini engelle</string>
+    <string name="hibernate_title">Hazırda beklet</string>
+    <string name="hibernate_allow_list_category_title">Ekran kapalıyken uygulamayı hazırda beklet</string>
+    <string name="hibernate_deny_list_category_title">Ekran kapalıyken uygulamayı hazırda bekletme</string>
+    <string name="hibernate_category_title">Hazırda beklet gelişmiş ayarları</string>
+    <string name="hibernate_wakeup_title">Uyandır</string>
+    <string name="hibernate_wakeup_summary">Ekran açıldığında uygulamayı uyku modundan uyandır</string>
+    <string name="warden_title">Koruyucu</string>
+    <string name="warden_allow_list_category_title">Uygulamanın, çalışmadığında arka plan hizmetlerini başlatmasına izin ver</string>
+    <string name="warden_deny_list_category_title">Çalışmıyorken uygulamanın arka plan hizmetlerini başlatmasını önle</string>
+    <string name="warden_category_title">Koruyucu gelişmiş ayarları</string>
+    <string name="warden_force_stop_title">Durmaya zorla</string>
+    <string name="warden_force_stop_summary">Çıkış yaparken kısıtlanmış uygulamayı zorla durdur</string>
 </resources>

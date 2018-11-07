@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Αιγίδα</string>
-  <string name="loading">Φόρτωση\u2026</string>
-  <string name="no_apps">Χωρίς εφαρμογές</string>
-  <string name="action_settings">Ρυθμίσεις</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Παραχώρηση δικαιωμάτων wakelock</string>
-  <string name="wakelock_deny_list_category_title">Άρνηση δικαιωμάτων wakelock</string>
-  <string name="pacifier_title">Pacifier</string>
-  <string name="pacifier_analyzing">Ανάληση συμπεριφοράς εφαρμογής, παρακαλώ ελέγξτε πάλι μετά</string>
-  <string name="pacifier_allow_list_category_title">Επιτρέπει στην εφαρμογή να στείλει εκπομπή για να σταματήσει και τις συνδεδεμένες εφαρμογές</string>
-  <string name="pacifier_deny_list_category_title">Εμποδίζει την εφαρμογή να στείλει εκπομπές να σταματήσει και τις συνδεδεμένες εφαρμογές</string>
-  <string name="hibernate_title">Αδρανοποίηση</string>
-  <string name="hibernate_allow_list_category_title">Αδρανοποίηση εφαρμογής όταν είναι κλειστή η οθόνη</string>
-  <string name="hibernate_deny_list_category_title">Χωρίς αδρανοποίηση εφαρμογής όταν είναι κλειστή η οθόνη</string>
-  <string name="hibernate_category_title">Προχωρημένες ρυθμίσεις αδρανοποίησης</string>
-  <string name="hibernate_wakeup_title">Αφύπνιση</string>
-  <string name="hibernate_wakeup_summary">Ξύπνημα αδρανοποιημένης εφαρμογής όταν ανοίξει η οθόνη</string>
-  <string name="warden_title">Warden</string>
-  <string name="warden_allow_list_category_title">Επιτρέπει στην εφαρμογή να ξεκινήσει υπηρεσίες στο παρασκήνιο όταν δεν εκτελείται</string>
-  <string name="warden_deny_list_category_title">Εμποδίζει στην εφαρμογή την εκκίνηση υπηρεσιών στο παρασκήνιο όταν δεν εκτελείται</string>
-  <string name="warden_category_title">Προχωρημένες ρυθμίσεις warden</string>
-  <string name="warden_force_stop_title">Αναγκαστική διακοπή</string>
-  <string name="warden_force_stop_summary">Αναγκαστική διακοπή προστατευμένης εφαρμογής κατά την αναχώρηση</string>
+    <string name="app_name">Αιγίδα</string>
+    <string name="loading">Φόρτωση\u2026</string>
+    <string name="no_apps">Χωρίς εφαρμογές</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Παραχώρηση δικαιωμάτων wakelock</string>
+    <string name="wakelock_deny_list_category_title">Άρνηση δικαιωμάτων wakelock</string>
+    <string name="pacifier_title">Pacifier</string>
+    <string name="pacifier_analyzing">Ανάληση συμπεριφοράς εφαρμογής, παρακαλώ ελέγξτε πάλι μετά</string>
+    <string name="pacifier_allow_list_category_title">Επιτρέπει στην εφαρμογή να στείλει εκπομπή για να σταματήσει και τις συνδεδεμένες εφαρμογές</string>
+    <string name="pacifier_deny_list_category_title">Εμποδίζει την εφαρμογή να στείλει εκπομπές να σταματήσει και τις συνδεδεμένες εφαρμογές</string>
+    <string name="hibernate_title">Αδρανοποίηση</string>
+    <string name="hibernate_allow_list_category_title">Αδρανοποίηση εφαρμογής όταν είναι κλειστή η οθόνη</string>
+    <string name="hibernate_deny_list_category_title">Χωρίς αδρανοποίηση εφαρμογής όταν είναι κλειστή η οθόνη</string>
+    <string name="hibernate_category_title">Προχωρημένες ρυθμίσεις αδρανοποίησης</string>
+    <string name="hibernate_wakeup_title">Αφύπνιση</string>
+    <string name="hibernate_wakeup_summary">Ξύπνημα αδρανοποιημένης εφαρμογής όταν ανοίξει η οθόνη</string>
+    <string name="warden_title">Warden</string>
+    <string name="warden_allow_list_category_title">Επιτρέπει στην εφαρμογή να ξεκινήσει υπηρεσίες στο παρασκήνιο όταν δεν εκτελείται</string>
+    <string name="warden_deny_list_category_title">Εμποδίζει στην εφαρμογή την εκκίνηση υπηρεσιών στο παρασκήνιο όταν δεν εκτελείται</string>
+    <string name="warden_category_title">Προχωρημένες ρυθμίσεις warden</string>
+    <string name="warden_force_stop_title">Αναγκαστική διακοπή</string>
+    <string name="warden_force_stop_summary">Αναγκαστική διακοπή προστατευμένης εφαρμογής κατά την αναχώρηση</string>
 </resources>

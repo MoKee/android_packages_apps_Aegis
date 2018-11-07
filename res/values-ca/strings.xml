@@ -15,5 +15,5 @@
      limitations under the License.
  -->
 <resources>
-  <string name="loading">Carregant\u2026</string>
+    <string name="loading">Carregant\u2026</string>
 </resources>

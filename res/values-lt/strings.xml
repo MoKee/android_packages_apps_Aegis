@@ -15,12 +15,12 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Agida</string>
-  <string name="wakelock_title">PažadinimoUžraktas</string>
-  <string name="wakelock_allow_list_category_title">Suteikti pažadinimo užrakto teises</string>
-  <string name="hibernate_title">Miegoti</string>
-  <string name="hibernate_allow_list_category_title">Leisti programai snausti kol ekranas išjungtas</string>
-  <string name="hibernate_deny_list_category_title">Atšaukti programos snaudimą kai ekranas išjungtas</string>
-  <string name="hibernate_category_title">Išplėstiniai spaudimo nustatymai</string>
-  <string name="hibernate_wakeup_title">Pabusti</string>
+    <string name="app_name">Agida</string>
+    <string name="wakelock_title">PažadinimoUžraktas</string>
+    <string name="wakelock_allow_list_category_title">Suteikti pažadinimo užrakto teises</string>
+    <string name="hibernate_title">Miegoti</string>
+    <string name="hibernate_allow_list_category_title">Leisti programai snausti kol ekranas išjungtas</string>
+    <string name="hibernate_deny_list_category_title">Atšaukti programos snaudimą kai ekranas išjungtas</string>
+    <string name="hibernate_category_title">Išplėstiniai spaudimo nustatymai</string>
+    <string name="hibernate_wakeup_title">Pabusti</string>
 </resources>

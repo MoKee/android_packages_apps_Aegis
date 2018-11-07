@@ -15,27 +15,27 @@
      limitations under the License.
  -->
 <resources>
-  <string name="app_name">Aegis</string>
-  <string name="loading">Lädt\u2026</string>
-  <string name="no_apps">Keine Apps</string>
-  <string name="action_settings">Einstellungen</string>
-  <string name="wakelock_title">Wakelock</string>
-  <string name="wakelock_allow_list_category_title">Wakelock-Rechte gewähren</string>
-  <string name="wakelock_deny_list_category_title">Wakelock-Rechte widerrufen</string>
-  <string name="pacifier_title">Schnuller</string>
-  <string name="pacifier_analyzing">App-Verhaltensweisen werden analysiert. Bitte kommen Sie später wieder.</string>
-  <string name="pacifier_allow_list_category_title">Erlaubt Übertragung an gestoppte und verknüpfte Apps</string>
-  <string name="pacifier_deny_list_category_title">Verhindert Übertragung an gestoppte und verknüpfte Apps</string>
-  <string name="hibernate_title">Ruhezustand</string>
-  <string name="hibernate_allow_list_category_title">Erlaubt Ruhezustand im Stand-By</string>
-  <string name="hibernate_deny_list_category_title">Verhindert Ruhezustand im Stand-By</string>
-  <string name="hibernate_category_title">Erweiterte Ruhezustand-Einstellungen</string>
-  <string name="hibernate_wakeup_title">Aufwecken</string>
-  <string name="hibernate_wakeup_summary">In den Ruhezustand versetzte Apps aufwecken, wenn der Bildschirm eingeschaltet wird</string>
-  <string name="warden_title">Aufseher</string>
-  <string name="warden_allow_list_category_title">Erlaubt Hintergrundprozesse bei nicht ausgeführten Apps</string>
-  <string name="warden_deny_list_category_title">Verhindert Hintergrundprozesse bei nicht ausgeführten Apps</string>
-  <string name="warden_category_title">Erweiterte Aufseher-Einstellungen</string>
-  <string name="warden_force_stop_title">Beenden erzwingen</string>
-  <string name="warden_force_stop_summary">Beenden der eingeschränkten App beim Verlassen erzwingen</string>
+    <string name="app_name">Aegis</string>
+    <string name="loading">Lädt\u2026</string>
+    <string name="no_apps">Keine Apps</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="wakelock_title">Wakelock</string>
+    <string name="wakelock_allow_list_category_title">Wakelock-Rechte gewähren</string>
+    <string name="wakelock_deny_list_category_title">Wakelock-Rechte widerrufen</string>
+    <string name="pacifier_title">Schnuller</string>
+    <string name="pacifier_analyzing">App-Verhaltensweisen werden analysiert. Bitte kommen Sie später wieder.</string>
+    <string name="pacifier_allow_list_category_title">Erlaubt Übertragung an gestoppte und verknüpfte Apps</string>
+    <string name="pacifier_deny_list_category_title">Verhindert Übertragung an gestoppte und verknüpfte Apps</string>
+    <string name="hibernate_title">Ruhezustand</string>
+    <string name="hibernate_allow_list_category_title">Erlaubt Ruhezustand im Stand-By</string>
+    <string name="hibernate_deny_list_category_title">Verhindert Ruhezustand im Stand-By</string>
+    <string name="hibernate_category_title">Erweiterte Ruhezustand-Einstellungen</string>
+    <string name="hibernate_wakeup_title">Aufwecken</string>
+    <string name="hibernate_wakeup_summary">In den Ruhezustand versetzte Apps aufwecken, wenn der Bildschirm eingeschaltet wird</string>
+    <string name="warden_title">Aufseher</string>
+    <string name="warden_allow_list_category_title">Erlaubt Hintergrundprozesse bei nicht ausgeführten Apps</string>
+    <string name="warden_deny_list_category_title">Verhindert Hintergrundprozesse bei nicht ausgeführten Apps</string>
+    <string name="warden_category_title">Erweiterte Aufseher-Einstellungen</string>
+    <string name="warden_force_stop_title">Beenden erzwingen</string>
+    <string name="warden_force_stop_summary">Beenden der eingeschränkten App beim Verlassen erzwingen</string>
 </resources>
